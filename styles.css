@@ -188,3 +188,27 @@ audio {
     width: 100%;
     height: 42px;
 }
+
+.playback-speed-button {
+  border: none;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+  margin-right: 20px;
+  margin-bottom: 8px;
+  margin-top: 8px;
+}
+
+.playback-speed-button:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+
+.playback-speed-button:active {
+  background-color: #4CAF50; /* Green */
+  opacity: 0.8;
+}
