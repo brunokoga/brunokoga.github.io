@@ -337,3 +337,54 @@ span.avoidwrap { display:inline-block; }
   }
 
 }
+
+/* Audio */
+
+.audio-box {
+    background-color: #e0e0e0;
+    border-radius: 15px;
+    padding: 12px 10px 5px 10px;
+    margin-bottom: 25px;
+}
+
+.audio-box .podcast-players {
+    margin-top: 7px;
+    line-height: 1.5em;
+    text-align: center;
+}
+
+.audio-box .podcast-players a {
+    background-color: #eff1f2;
+    margin-right: 8px;
+    margin-bottom: 7px;
+}
+
+audio {
+    width: 100%;
+    height: 42px;
+}
+
+.playback-speed-button {
+  border: none;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+  margin-right: 20px;
+  margin-bottom: 8px;
+  margin-top: 8px;
+}
+
+.playback-speed-button:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+
+.playback-speed-button:active {
+  background-color: #4CAF50; /* Green */
+  opacity: 0.8;
+}
+
