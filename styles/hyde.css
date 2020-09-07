@@ -37,7 +37,7 @@ body {
 }
 
 body {
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   color: #454441;
@@ -199,6 +199,7 @@ a:hover {
   font-weight: 300;
   margin-bottom: 0;
 }
+
 .masthead a {
   color: #fff;
 }
@@ -211,6 +212,8 @@ a:hover {
 .colophon-links {
   margin: 0 0 15px;
   list-style: none;
+  font-size: 24px;
+  margin-bottom: 0;
 }
 
 
@@ -230,6 +233,7 @@ a:hover {
   margin-top: 40px;
   margin-bottom: 40px;
 }
+
 .post-date {
   display: block;
   margin: -10px 0 10px;
