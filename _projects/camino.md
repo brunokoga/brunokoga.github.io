@@ -7,39 +7,27 @@ importance: 4
 category: hikes
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I completed my first long-distance hiking in 2017. It was the Camino Francés, the most popular routes of the Camino de Santiago. I started in Saint-Jean-Pied-de-Port (on the French side of the Pyrenees) and finished in [Finistère](https://en.wikipedia.org/wiki/Finistère), after walking by [Muxía](https://en.wikipedia.org/wiki/Muxía) and, of course, [Santiago de Compostela](https://en.wikipedia.org/wiki/Santiago_de_Compostela).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/camino/camino3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/camino/camino3.jpg" title="Camino Crew" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Camino de Santiago, 2019.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+In 2019 and I re-did part of the Camino Francés, this time starting in [León](https://en.wikipedia.org/wiki/León,_Spain).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/camino/camino2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/camino/camino2.jpg" title="Arriving in Santiago de Compostela" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Mandatory picture in front of the Cathedral of Santiago de Compostela
 </div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
 
 
 
