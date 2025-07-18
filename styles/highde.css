@@ -1,0 +1,770 @@
+/* Highde Theme - Light/Dark Mode CSS */
+
+/* CSS Variables - Light Theme (Default) */
+:root {
+  --bg-color: #ffffff;
+  --text-color: #454441;
+  --text-light: #888580;
+  --text-muted: #9a9a9a;
+  --text-strong: #222222;
+  --link-color: #222222;
+  --border-color: #eeeeee;
+  --border-light: #ffffff;
+  --highlight-bg: #f5f5f5;
+  --code-bg: #f7f7f9;
+  --code-border: #e1e1e8;
+  --code-text: #d14;
+  --pre-bg: #eeeeee;
+  --quote-text: #7a7a7a;
+  --abbr-bg: #eeeeee;
+  --abbr-text: #555555;
+  
+  /* Masthead */
+  --masthead-bg: #2a2a2a;
+  --masthead-text: #ffffff;
+  --masthead-link: #ffffff;
+  --masthead-muted: #7a7a7a;
+  
+  /* Audio Player */
+  --audio-bg: #e0e0e0;
+  --audio-button-bg: #f0f0f0;
+  --audio-button-hover: #663399;
+  --audio-button-text: #333333;
+  
+  /* Accent */
+  --accent-color: #663399;
+}
+
+/* Dark Theme - Auto & Manual */
+@media (prefers-color-scheme: dark) {
+  :root:not(.light-theme) {
+    --bg-color: #1a1a1a;
+    --text-color: #ffffff;
+    --text-light: #d1d5db;
+    --text-muted: #9ca3af;
+    --text-strong: #ffffff;
+    --link-color: #ffffff;
+    --border-color: #4b5563;
+    --border-light: #374151;
+    --highlight-bg: #374151;
+    --code-bg: #374151;
+    --code-border: #4b5563;
+    --code-text: #fca5a5;
+    --pre-bg: #374151;
+    --quote-text: #d1d5db;
+    --abbr-bg: #4b5563;
+    --abbr-text: #ffffff;
+    --masthead-bg: #0f0f0f;
+    --masthead-text: #ffffff;
+    --masthead-link: #ffffff;
+    --masthead-muted: #d1d5db;
+    --audio-bg: #2d3748;
+    --audio-button-bg: #4a5568;
+    --audio-button-hover: #8b5cf6;
+    --audio-button-text: #e2e8f0;
+    --accent-color: #8b5cf6;
+  }
+}
+
+.dark-theme {
+  --bg-color: #1a1a1a;
+  --text-color: #ffffff;
+  --text-light: #d1d5db;
+  --text-muted: #9ca3af;
+  --text-strong: #ffffff;
+  --link-color: #ffffff;
+  --border-color: #4b5563;
+  --border-light: #374151;
+  --highlight-bg: #374151;
+  --code-bg: #374151;
+  --code-border: #4b5563;
+  --code-text: #fca5a5;
+  --pre-bg: #374151;
+  --quote-text: #d1d5db;
+  --abbr-bg: #4b5563;
+  --abbr-text: #ffffff;
+  --masthead-bg: #1a0d1a;
+  --masthead-text: #ffffff;
+  --masthead-link: #ffffff;
+  --masthead-muted: #d1d5db;
+  --audio-bg: #2d3748;
+  --audio-button-bg: #4a5568;
+  --audio-button-hover: #8b5cf6;
+  --audio-button-text: #e2e8f0;
+  --accent-color: #8b5cf6;
+}
+
+/* Base Styles */
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--text-color);
+  background-color: var(--bg-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+  margin: 0 0 10px;
+  font-weight: 500;
+  line-height: 1.25;
+  text-rendering: optimizeLegibility;
+  color: var(--text-strong);
+}
+
+h1 { font-size: 40px; }
+h2 { margin-top: 20px; font-size: 32px; }
+h3 { margin-top: 24px; font-size: 24px; }
+h4, h5, h6 { margin-top: 16px; font-size: 16px; }
+
+p {
+  margin: 0 0 15px;
+  color: var(--text-color);
+}
+
+ul, ol {
+  padding: 0;
+  margin: 0 0 15px;
+}
+
+li {
+  color: var(--text-light);
+}
+
+hr {
+  position: relative;
+  margin: 40px 0;
+  border: 0;
+  border-top: 1px solid var(--border-color);
+  border-bottom: 1px solid var(--border-light);
+}
+
+strong {
+  color: var(--text-strong);
+}
+
+/* Links */
+a {
+  font-weight: 600;
+  color: var(--link-color);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--accent-color);
+}
+
+/* Code */
+code, pre {
+  font-family: Menlo, Monaco, "Courier New", monospace;
+  font-size: 14px;
+  border-radius: 3px;
+}
+
+code {
+  padding: 2px 4px;
+  color: var(--code-text);
+  background-color: var(--code-bg);
+  border: 1px solid var(--code-border);
+}
+
+pre {
+  display: block;
+  margin: 0 0 14px;
+  padding: 15px 20px;
+  line-height: 28px;
+  white-space: pre-wrap;
+  word-break: break-all;
+  word-wrap: break-word;
+  background-color: var(--pre-bg);
+  color: var(--text-color);
+  border-radius: 8px;
+  border: 1px solid var(--border-color);
+}
+
+pre code {
+  padding: 0;
+  color: inherit;
+  background-color: transparent;
+  border: 0;
+}
+
+/* Blockquotes */
+blockquote {
+  padding: 12px 20px;
+  margin: 15px 30px 15px 0;
+  border-left: 4px solid var(--accent-color);
+  border-radius: 0 4px 4px 0;
+  background-color: var(--highlight-bg);
+}
+
+blockquote p {
+  margin-bottom: 0;
+  color: var(--quote-text);
+  text-indent: -0.4em;
+}
+
+blockquote p:before { content: '\201C'; }
+blockquote p:after { content: '\201D'; }
+
+/* Images */
+img {
+  display: block;
+  margin: 0 0 15px;
+  border-radius: 5px;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Abbreviations */
+abbr {
+  background-color: var(--abbr-bg);
+  display: inline-block;
+  padding: 3px;
+  font-size: 13px;
+  font-weight: bold;
+  color: var(--abbr-text);
+  text-transform: uppercase;
+  border-radius: 3px;
+}
+
+/* Masthead */
+.masthead {
+  color: var(--masthead-text);
+  background-color: var(--masthead-bg);
+  transition: background-color 0.3s ease;
+  position: relative;
+}
+
+.masthead-inner {
+  padding: 20px;
+}
+
+.masthead h1 {
+  margin-top: 0;
+  font-family: "Abril Fatface";
+  color: var(--masthead-text);
+}
+
+.masthead .lead {
+  font-size: 20px;
+  font-weight: 300;
+  margin-bottom: 0;
+}
+
+.masthead a {
+  color: var(--masthead-link);
+  transition: color 0.3s ease;
+}
+
+.masthead a:hover {
+  color: var(--accent-color);
+  opacity: 0.9;
+}
+
+.colophon {
+  margin-top: 0;
+  color: var(--masthead-muted);
+}
+
+.colophon-links {
+  margin: 0 0 15px;
+  list-style: none;
+  font-size: 22px;
+}
+
+.colophon-links a.selected {
+  color: var(--masthead-text);
+  font-weight: bold;
+  border-left: 3px solid var(--accent-color);
+  padding-left: 8px;
+  margin-left: -11px;
+}
+
+/* Profile Section */
+.profile-section {
+  text-align: center;
+  margin-bottom: 40px;
+  padding: 0 20px;
+}
+
+.profile-image {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid rgba(255, 255, 255, 0.2);
+  transition: all 0.3s ease;
+  display: block;
+  margin: 0 auto 20px;
+}
+
+.profile-image:hover {
+  border-color: var(--accent-color);
+  transform: scale(1.05);
+  box-shadow: 0 6px 16px rgba(139, 92, 246, 0.3);
+}
+
+.profile-name {
+  font-family: "Abril Fatface", serif;
+  font-size: 32px;
+  font-weight: 400;
+  color: var(--masthead-text);
+  margin: 0 0 15px 0;
+  line-height: 1.2;
+}
+
+.profile-bio {
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--masthead-muted);
+  margin: 0 0 20px 0;
+  max-width: 280px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Removed Theme Toggle styles - no longer needed */
+
+/* Posts */
+.posts {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.post {
+  margin: 40px 20px;
+  background-color: var(--bg-color);
+  transition: background-color 0.3s ease;
+}
+
+.post h1 {
+  color: var(--text-strong) !important;
+  margin: 0 0 10px;
+  font-weight: 600;
+  line-height: 1.25;
+  font-size: 40px;
+}
+
+.post h1 a {
+  color: var(--text-strong) !important;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.post h1 a:hover {
+  color: var(--accent-color) !important;
+  text-decoration: underline;
+}
+
+.post-date {
+  display: block;
+  margin: -10px 0 10px;
+  color: var(--text-muted) !important;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.post p {
+  color: var(--text-color) !important;
+  margin: 0 0 15px;
+  line-height: 1.5;
+  font-size: 16px;
+}
+
+.post-content {
+  color: var(--text-color) !important;
+}
+
+.post-content h1, .post-content h2, .post-content h3, 
+.post-content h4, .post-content h5, .post-content h6 {
+  color: var(--text-strong) !important;
+}
+
+.post-content p, .post-content ul, .post-content ol {
+  color: var(--text-color) !important;
+}
+
+.post-content li {
+  color: var(--text-light) !important;
+}
+
+.post-content strong {
+  color: var(--text-strong) !important;
+}
+
+/* Audio Player */
+.audio-box {
+  background-color: var(--audio-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 24px;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.dark-theme .audio-box {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+}
+
+.audio-box:hover {
+  border-color: var(--accent-color);
+  box-shadow: 0 4px 8px rgba(139, 92, 246, 0.25);
+}
+
+.dark-theme .audio-box:hover {
+  box-shadow: 0 4px 12px rgba(139, 92, 246, 0.3);
+  background-color: #374151;
+}
+
+.speed-controls {
+  margin-top: 12px;
+  text-align: center;
+}
+
+audio {
+  width: 100%;
+  height: 44px;
+  transition: all 0.3s ease;
+  border-radius: 8px;
+  background-color: var(--highlight-bg);
+}
+
+.dark-theme audio {
+  background-color: #1a202c;
+  border: 1px solid #4a5568;
+  filter: brightness(0.7) contrast(1.3) hue-rotate(180deg);
+}
+
+.playback-speed-button {
+  border: 1px solid var(--border-color);
+  background-color: var(--audio-button-bg);
+  color: var(--audio-button-text);
+  padding: 8px 16px;
+  margin: 4px 8px;
+  font-size: 14px;
+  font-weight: 500;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: inline-block;
+  text-decoration: none;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.playback-speed-button:hover {
+  background-color: var(--audio-button-hover);
+  color: white;
+  border-color: var(--audio-button-hover);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 6px rgba(139, 92, 246, 0.4);
+}
+
+.playback-speed-button:active {
+  transform: translateY(0);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+/* Pagination */
+.pagination {
+  overflow: hidden;
+  margin-top: 40px;
+  font-weight: bold;
+  color: var(--text-muted);
+  text-align: center;
+  border-top: 1px solid var(--border-color);
+}
+
+.pagination a, .pagination span {
+  float: left;
+  width: 50%;
+  box-sizing: border-box;
+  padding: 20px;
+  color: var(--text-color);
+}
+
+.pagination a:first-child, .pagination span:first-child {
+  border-right: 1px solid var(--border-color);
+}
+
+.pagination a:hover {
+  text-decoration: none;
+  background-color: var(--highlight-bg);
+  color: var(--accent-color);
+}
+
+/* Selection Colors */
+::selection {
+  background: var(--accent-color);
+  color: white;
+}
+
+::-moz-selection {
+  background: var(--accent-color);
+  color: white;
+}
+
+/* Scrollbar (Dark Theme) */
+.dark-theme ::-webkit-scrollbar {
+  width: 8px;
+}
+
+.dark-theme ::-webkit-scrollbar-track {
+  background: var(--bg-color);
+}
+
+.dark-theme ::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 4px;
+}
+
+.dark-theme ::-webkit-scrollbar-thumb:hover {
+  background: var(--accent-color);
+}
+
+/* Utility */
+span.avoidwrap {
+  display: inline-block;
+}
+
+/* Responsive Design */
+@media (max-width: 767px) {
+  .masthead {
+    padding: 15px 0;
+  }
+  
+  .profile-section {
+    padding: 0 15px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .profile-image {
+    width: 60px;
+    height: 60px;
+    border-width: 2px;
+    margin-bottom: 10px;
+  }
+  
+  .profile-name {
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+  
+  .profile-bio {
+    font-size: 13px;
+    margin-bottom: 0;
+    line-height: 1.4;
+  }
+  
+  .masthead-inner {
+    padding: 0 15px 15px;
+  }
+  
+  .colophon-links {
+    font-size: 16px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin: 0;
+  }
+  
+  .colophon-links li {
+    margin: 0;
+  }
+  
+  .colophon-links a {
+    display: block;
+    padding: 6px 4px 2px 4px;
+    transition: all 0.3s ease;
+    border-bottom: 3px solid transparent;
+  }
+  
+  .colophon-links a.selected {
+    color: var(--masthead-text);
+    font-weight: bold;
+    border-bottom: 3px solid var(--accent-color);
+    border-left: none;
+    padding-left: 4px;
+    margin-left: 0;
+  }
+  
+  .colophon-links a:hover {
+    color: var(--accent-color);
+  }
+  
+  .posts {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  
+  .post {
+    margin: 20px 10px;
+  }
+}
+
+@media (min-width: 768px) {
+  .masthead-inner {
+    padding: 30px;
+  }
+  
+  .posts {
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 989px) {
+  .masthead {
+    padding: 20px 0;
+  }
+  
+  .profile-section {
+    padding: 0 30px;
+    margin-bottom: 25px;
+    text-align: center;
+  }
+  
+  .profile-image {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .profile-name {
+    font-size: 28px;
+  }
+  
+  .profile-bio {
+    font-size: 15px;
+  }
+  
+  .masthead-inner {
+    padding: 0 30px 20px;
+  }
+  
+  .colophon-links {
+    font-size: 18px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 25px;
+    margin: 0;
+  }
+  
+  .colophon-links li {
+    margin: 0;
+  }
+  
+  .colophon-links a {
+    display: block;
+    padding: 8px 6px 3px 6px;
+    transition: all 0.3s ease;
+    border-bottom: 3px solid transparent;
+  }
+  
+  .colophon-links a.selected {
+    color: var(--masthead-text);
+    font-weight: bold;
+    border-bottom: 3px solid var(--accent-color);
+    border-left: none;
+    padding-left: 6px;
+    margin-left: 0;
+  }
+  
+  .colophon-links a:hover {
+    color: var(--accent-color);
+  }
+}
+
+@media (min-width: 990px) {
+  body {
+    font-size: 18px;
+  }
+  
+  .masthead {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 25%;
+    margin-bottom: 0;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .masthead h1 {
+    font-size: 64px;
+  }
+  
+  /* Profile section positioned at the top */
+  .profile-section {
+    margin-top: 60px;
+    margin-bottom: 0;
+    padding: 0 40px;
+    flex-shrink: 0;
+  }
+  
+  /* Navigation section stays at the bottom */
+  .masthead-inner {
+    padding: 40px;
+    margin-top: auto; /* This pushes the navigation to the bottom */
+  }
+  
+  .masthead .lead {
+    font-size: 24px;
+  }
+  
+  .colophon {
+    margin-top: 0;
+  }
+  
+  .colophon-links {
+    font-size: 24px;
+  }
+  
+  .container {
+    margin-left: 35%;
+    margin-right: 10%;
+    width: 55%;
+  }
+  
+  .posts {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  
+  .post {
+    margin-top: 60px;
+    margin-bottom: 60px;
+  }
+  
+  .profile-image {
+    width: 140px;
+    height: 140px;
+    border-width: 5px;
+  }
+  
+  .profile-name {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .profile-bio {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 25px;
+  }
+}

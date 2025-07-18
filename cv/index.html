@@ -1,0 +1,117 @@
+<!DOCTYPE html><html lang="en"> <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="icon" type="image/png" href="/images/favicon.png"><meta name="generator" content="Astro v4.16.18"><script>
+      (function () {
+        // Always use system preference
+        const systemPrefersDark = window.matchMedia(
+          "(prefers-color-scheme: dark)"
+        ).matches;
+
+        const currentTheme = systemPrefersDark ? "dark" : "light";
+        const html = document.documentElement;
+        
+        // Apply theme based on system preference
+        html.classList.add(
+          currentTheme === "dark" ? "dark-theme" : "light-theme"
+        );
+
+        // Listen for system theme changes and update automatically
+        window
+          .matchMedia("(prefers-color-scheme: dark)")
+          .addEventListener("change", (e) => {
+            // Remove existing theme classes
+            html.classList.remove("light-theme", "dark-theme");
+            
+            // Apply new system theme
+            if (e.matches) {
+              html.classList.add("dark-theme");
+            } else {
+              html.classList.add("light-theme");
+            }
+          });
+      })();
+    </script><!-- Removed theme toggle functionality as it's no longer needed --><!-- SEO --><title>Bruno Koga | brunokoga.com</title><meta name="description" content="My Curriculum Vitae"><link rel="canonical" href="https://brunokoga.com/cv/"><!-- Open Graph / Facebook --><meta property="og:type" content="website"><meta property="og:url" content="https://brunokoga.com/cv/"><meta property="og:title" content="Bruno Koga | brunokoga.com"><meta property="og:description" content="My Curriculum Vitae"><meta property="og:image" content="https://brunokoga.com/images/favicon.png"><!-- Twitter --><meta property="twitter:card" content="summary_large_image"><meta property="twitter:url" content="https://brunokoga.com/cv/"><meta property="twitter:title" content="Bruno Koga | brunokoga.com"><meta property="twitter:description" content="My Curriculum Vitae"><meta property="twitter:image" content="https://brunokoga.com/images/favicon.png"><!-- Stylesheets - AFTER theme detection --><link rel="stylesheet" href="/styles/highde.css"><!-- RSS Feed --><link rel="alternate" type="application/rss+xml" title="brunokoga.com" href="/rss.xml"></head> <body class="content container"> <!-- Sidebar Navigation --> <header class="masthead"> <!-- Profile Section - moved outside masthead-inner --> <div class="profile-section"> <div class="profile-image-container"> <img src="/images/profile.png" alt="Bruno Koga" class="profile-image"> </div> <h1 class="profile-name">Bruno Koga</h1> <p class="profile-bio">iOS Developer &amp; Tech Enthusiast. Sharing thoughts on technology, travel, and life experiences.</p> </div> <!-- Navigation - stays in masthead-inner at bottom --> <div class="masthead-inner"> <div class="colophon"> <ul class="colophon-links"> <li> <a href="/" class=""> O site mais legal </a> </li> <li> <a href="/posts" class=""> Posts </a> </li><li> <a href="/projects" class=""> Projects </a> </li><li> <a href="/adventures" class=""> Adventures </a> </li><li> <a href="/cv" class="selected"> CV </a> </li><li> <a href="/contact" class=""> Contact </a> </li> </ul> </div> </div> </header> <!-- Main Content --> <main>  <div class="posts"> <div class="post"> <h1>Bruno Koga</h1> <div class="post-content"> <p>40 years old, Brazilian/Dutch | <a href="mailto:koga@brunokoga.com">koga@brunokoga.com</a> | <a href="http://www.brunokoga.com">brunokoga.com</a></p>
+<p>I’m passionate software engineer who has been working most exclusively with iOS development since 2009. I find it truly fascinating that I can make people’s lives better through software development and that’s what motivates me to keep learning and programming. My past experiences include working on a wide range of challenging international projects for large and small companies but also engagement in building a strong developer community in Brazil and writing technical articles.</p>
+<h2 id="work-experience">WORK EXPERIENCE</h2>
+<h3 id="tech-lead-siilo">Tech Lead, <a href="https://www.siilo.com">Siilo</a></h3>
+<h5 id="amsterdam-the-netherlands--june2020---present">Amsterdam, The Netherlands | June/2020 - present</h5>
+<p>As a Tech Lead at Siilo, I am responsible for the success of my product focus area (Network Growth) from a technical perspective. I work closely together with Product Manager and Designer on my team to impact the business goals and help realize the product vision.</p>
+<ul>
+<li>Lead all the technical aspects of my product area, always involving my team and making sure they understand technical decisions;</li>
+<li>Provide input on the product strategy, including around technical opportunities and identifying low-hanging fruit made possible by technical improvements / platform updates;</li>
+<li>Be involved in defining and reviewing the OKRs for your product focus area;</li>
+<li>Determine overall architecture and maintain overview of potential issues and required maintenance for our iOS products.</li>
+</ul>
+<h3 id="ios-sofware-engineer-siilo">iOS Sofware Engineer, <a href="https://www.siilo.com">Siilo</a></h3>
+<h5 id="amsterdam-the-netherlands--june2015---june2020">Amsterdam, The Netherlands | June/2015 - June/2020</h5>
+<p>Responsible for the development of the Siilo Medical Messenger for iOS. This messenger was designed and developed from scratch to be end-to-end encrypted (as well as locally encrypted), allowing medical professionals to communicate privately and collaborate more easily. It offers additional features suitable for professional use in healthcare.</p>
+<h3 id="lead-ios-developer-99taxis">Lead iOS Developer, <a href="https://99app.com">99Taxis</a></h3>
+<h5 id="são-paulo-brazil--march2015---june2015">São Paulo, Brazil | March/2015 - June/2015</h5>
+<p>Worked on the team responsible for developing the iOS version of 99Taxis, the best application to request taxis by smartphones in Brazil. Although I enjoyed every second working there, I left to pursuit my dream of living and working abroad.</p>
+<ul>
+<li>Worked on the Apple Watch version of the app;</li>
+<li>Improved overall architecture, breaking down our existing app in reusable modules (which was very useful for our Apple Watch app);</li>
+<li>Worked with MapKit, GoogleMaps APIs, WatchKit.</li>
+</ul>
+<h3 id="lead-ios-developer-movileplaykids">Lead iOS Developer, <a href="https://www.movile.com.br">Movile</a>/<a href="https://www.playkidsapp.com">PlayKids</a></h3>
+<h5 id="campinassão-paulo-brazil--august2014---march2015">Campinas/São Paulo, Brazil | August/2014 - March/2015</h5>
+<p>Worked as part of the team responsible for developing the iOS app on the <a href="https://www.playkidsapp.com">PlayKids</a> project. At the time, PlayKids was #1 iOS grossing app under the Kids (0-5 years) category in various countries, including US and Brazil.</p>
+<ul>
+<li>Worked closely with designers, illustrators and content producers;</li>
+<li>Implemented the video encryption/decryption library used in the app;</li>
+<li>Worked with AVFoundation, Core Media, SpriteKit, <a href="http://esotericsoftware.com">Spine</a>.</li>
+</ul>
+<h3 id="lead-ios-developer-ginga-one">Lead iOS Developer, Ginga One</h3>
+<h5 id="são-paulo---brazil--january2014---august2014">São Paulo - Brazil | January/2014 - August/2014</h5>
+<p>Responsible for architecting and developing white-label apps and enterprise apps for our clients.</p>
+<ul>
+<li>Worked on simple apps, mostly using UIKit and Foundation.</li>
+</ul>
+<h3 id="ios-architectmobile-expert-cit">iOS Architect/Mobile Expert, <a href="https://ciandt.com/us/en-us">CI&#x26;T</a></h3>
+<h5 id="campinassão-paulo-brazil--june2011---december2013">Campinas/São Paulo, Brazil | June/2011 - December/2013</h5>
+<p>Responsible for the high quality level of all iOS apps developed for internal use, direct customers and partners. I work together with the pre-sales and mobile consultant teams to understand our clients real needs to build the best customized solution for each case. I’ve provided mobile consultancy to companies in California, New York, St. Louis, Japan and China, working both on-site and remotely.
+In parallel, I run a educational front that has a focus to spread the mobile culture and teach the necessary knowledge to those who want to learn. Sporadically, I also give some talks about iOS technologies and mobile in general.</p>
+<ul>
+<li>Developed iOS apps for companies like Coca-Cola, DivX, Henry Schein, Monsanto, Johnson &#x26; Johnson, Grupo Pão de Açucar, Abril, Natura e SulAmérica</li>
+<li>Architecture design of iOS apps</li>
+<li>Responsible for mastering initiatives like Dojos, Tech Talks and trainings</li>
+</ul>
+<h3 id="ios-software-engineer-cit">iOS Software Engineer, <a href="https://ciandt.com/us/en-us">CI&#x26;T</a></h3>
+<h5 id="campinassão-paulo-brazil--january2010---june2011">Campinas/São Paulo, Brazil | January/2010 - June/2011</h5>
+<p>iOS Software Engineer responsible for developing and deploying apps on both the App Store and Enterprise context.</p>
+<ul>
+<li>Developed apps for internal use and for clients</li>
+<li>Gave an internal course for other areas employees who wanted to learn iOS programming</li>
+<li>Use of agile methodologies (SCRUM, XP and Kanban)</li>
+</ul>
+<h2 id="further-experience">FURTHER EXPERIENCE</h2>
+<h3 id="cocoaheads-and-appsterdam"><a href="http://www.cococaheads.com.br">CocoaHeads</a> and <a href="https://appsterdam.rs">Appsterdam</a></h3>
+<h4 id="são-paulobrazil--april2014---december2015">São Paulo/Brazil | April/2014 - December/2015</h4>
+<p>CocoaHeads is a group devoted to discussion of Apple Computer’s Cocoa and CocoaTouch Frameworks for programming on MacOS X and iOS. During monthly meetings, members present on their projects and offer tutorials on various programming topics.</p>
+<p>I was part of the team who started the CocoaHeads “chapters” in Brazil. As National Leader my main role is to support existing chapters and to help new chapters to come to life, but also organize community-focused events like dojos and meetups.</p>
+<h3 id="columnist-central-dos-apps">Columnist, Central dos Apps</h3>
+<h5 id="são-paulobrazil--january2012---december2014">São Paulo/Brazil | January/2012 - December/2014</h5>
+<p>Responsible for writing iOS development related posts, tutorials, news and apps reviews.
+Also responsible for the website technical maintenance.</p>
+<ul>
+<li>Subtitle translation for the iOS course “Coding Together” (18 lectures - 75 minutes each)</li>
+<li>Technical app reviews</li>
+<li>Website Version 2.0 implementation using Wordpress and custom CSS, for a fluid layout, mobile and retina display support</li>
+</ul>
+<h2 id="trainings-workshops-and-publications">TRAININGS, WORKSHOPS AND PUBLICATIONS</h2>
+<h3 id="the-developers-conference-ios-track-host-2014-and-2012">The Developers Conference, iOS Track Host 2014 and 2012.</h3>
+<p>TDC is the largest software development related event in Brazil. I was responsible for organizing the iOS-related content for the conference on the years 2012 and 2014.</p>
+<h3 id="ios-mini-course">iOS Mini-course</h3>
+<h5 id="university-of-são-paulo-são-paulo--april2012---june2012">University of São Paulo, São Paulo | April/2012 - June/2012</h5>
+<p>iOS Introduction mini-course that I gave for approximately 40 students at University of São Paulo (ICMC, São Carlos). Covered the first steps, and introductory topics about iOS development. We also developed a 100% functional app called Bandejão (used to check the university restaurant’s menu). For me, it was an honor to have the opportunity to contribute back to the University I graduated from.</p>
+<h4 id="desenvolvimento-ios---uma-reflexão-sobre-passado-presente-e-futuro--august2014"><a href="http://issuu.com/imasters/docs/rim11-issuu_11/69">Desenvolvimento iOS - uma reflexão sobre passado, presente e futuro</a> | August/2014</h4>
+<p>In this article, George (the other co-author) and I make a reflection about the development for iOS over the years and some predictions about its future.</p>
+<h4 id="cocoaheads-brasil-a-comunidade-de-desenvolvedores-ios-e-osx-que-mais-cresce-em-todo-o-brasil--august2014"><a href="http://issuu.com/imasters/docs/rim11-issuu_11/24">CocoaHeads Brasil. A comunidade de desenvolvedores iOS e OSX que mais cresce em todo o Brasil.</a> | August/2014</h4>
+<p>Article that discuss the incredible growth of the Brazilian CocoaHeads community.</p>
+<h4 id="invariante"><a href="https://invariante.com">Invariante</a></h4>
+<p>Blog where Diogo (a former colleague and friend) and I used to write about iOS development.</p>
+<h2 id="education">EDUCATION</h2>
+<h3 id="university-of-são-paulo">University of São Paulo</h3>
+<h5 id="bachelor-of-information-technology--2007-2010">Bachelor of Information Technology | 2007-2010</h5>
+<p>Solid education in Mathematics and Computer Science, mainly on programing techniques, methodologies of Information Systems development, business formation, dynamic enterprise modeling, laws and entrepreneurship.
+The degree was complemented by Emphasis on Decision Making Support Systems course.</p>
+<h2 id="extra-courses-and-events">EXTRA COURSES AND EVENTS</h2>
+<p>During the years of 2011 and 2015, I was (I still am!) really fascinated about developer communities and conferences. Living in Brazil, I literally spent all my savings to be able to attend some conferences around the world. I like to mention this because during this period I learned a lot, both professionally and as a human being. Some of these conferences include: <a href="http://2015.ull.ie">Úll Conference 2015 and 2014</a>, <a href="http://360idev.com">360iDev Conference 2014 and 2013</a>, <a href="http://www.altconf.com">AltConference 2014</a>, <a href="http://www.rubyconfuruguay.org/en">RubyConf Uruguay 2014</a>, <a href="http://www.uikonf.com">UIKonf 2014</a>, <a href="http://nsconference.com">NSConference 2014</a>, <a href="http://www.secondconf.com">SecondConf 2013</a>, <a href="http://gotocon.com">GOTO Conference Amsterdam 2013</a>, [Cocoa Conf Chicago 2013] and WWDC 2013, 2012 and 2011.</p> </div> </div> </div>  </main> <!-- Footer --> <footer> <!-- Empty footer as per original theme --> </footer> </body></html>
