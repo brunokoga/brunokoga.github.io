@@ -1,34 +1,22 @@
-<!DOCTYPE html><html lang="en"> <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="icon" type="image/png" href="/images/favicon.png"><meta name="generator" content="Astro v4.16.18"><script>
+<!DOCTYPE html><html lang="en" data-astro-cid-37fxchfa> <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="icon" type="image/png" href="/images/favicon.png"><meta name="generator" content="Astro v4.16.18"><!-- Prevent FOUC by applying theme immediately --><script>
       (function () {
-        // Always use system preference
-        const systemPrefersDark = window.matchMedia(
-          "(prefers-color-scheme: dark)"
-        ).matches;
-
-        const currentTheme = systemPrefersDark ? "dark" : "light";
-        const html = document.documentElement;
-        
-        // Apply theme based on system preference
-        html.classList.add(
-          currentTheme === "dark" ? "dark-theme" : "light-theme"
-        );
-
-        // Listen for system theme changes and update automatically
-        window
-          .matchMedia("(prefers-color-scheme: dark)")
-          .addEventListener("change", (e) => {
-            // Remove existing theme classes
-            html.classList.remove("light-theme", "dark-theme");
-            
-            // Apply new system theme
-            if (e.matches) {
-              html.classList.add("dark-theme");
-            } else {
-              html.classList.add("light-theme");
-            }
-          });
+        // Apply theme class immediately to prevent flash
+        const systemPrefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+        document.documentElement.classList.add(systemPrefersDark ? "dark-theme" : "light-theme");
       })();
-    </script><!-- Removed theme toggle functionality as it's no longer needed --><!-- SEO --><title>Contact | brunokoga.com</title><meta name="description" content="My contact"><link rel="canonical" href="https://brunokoga.com/contact/"><!-- Open Graph / Facebook --><meta property="og:type" content="website"><meta property="og:url" content="https://brunokoga.com/contact/"><meta property="og:title" content="Contact | brunokoga.com"><meta property="og:description" content="My contact"><meta property="og:image" content="https://brunokoga.com/images/og-image.jpg"><!-- Twitter --><meta property="twitter:card" content="summary_large_image"><meta property="twitter:url" content="https://brunokoga.com/contact/"><meta property="twitter:title" content="Contact | brunokoga.com"><meta property="twitter:description" content="My contact"><meta property="twitter:image" content="https://brunokoga.com/images/og-image.jpg"><!-- Stylesheets - AFTER theme detection --><link rel="stylesheet" href="/styles/highde.css"><!-- RSS Feed --><link rel="alternate" type="application/rss+xml" title="brunokoga.com" href="/rss.xml"></head> <body class="content container"> <!-- Sidebar Navigation --> <header class="masthead"> <!-- Profile Section - moved outside masthead-inner --> <div class="profile-section"> <div class="profile-image-container"> <img src="/images/profile.png" alt="Bruno Koga" class="profile-image"> </div> <h1 class="profile-name">Bruno Koga</h1> <p class="profile-bio">iOS Developer &amp; Tech Enthusiast. Sharing thoughts on technology, travel, and life experiences.</p> </div> <!-- Navigation - stays in masthead-inner at bottom --> <div class="masthead-inner"> <div class="colophon"> <ul class="colophon-links"> <li> <a href="/" class=""> About </a> </li> <li> <a href="/posts" class=""> Posts </a> </li><li> <a href="/projects" class=""> Projects </a> </li><li> <a href="/adventures" class=""> Adventures </a> </li><li> <a href="/cv" class=""> CV </a> </li><li> <a href="/contact" class="selected"> Contact </a> </li> </ul> </div> </div> </header> <!-- Main Content --> <main>  <div class="posts"> <div class="post"> <h1>Contact</h1> <div class="post-content"> <p>Ways of contacting me:</p>
+    </script><!-- Apply base styles to prevent flash --><!-- Load main stylesheet --><link rel="stylesheet" href="/styles/highde.css"><!-- Set up theme change listener after main content loads --><script>
+      window.addEventListener('DOMContentLoaded', function() {
+        // Listen for system theme changes and update automatically
+        window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", (e) => {
+          // Remove existing theme classes
+          document.documentElement.classList.remove("light-theme", "dark-theme");
+          
+          // Apply new system theme
+          document.documentElement.classList.add(e.matches ? "dark-theme" : "light-theme");
+        });
+      });
+    </script><!-- Removed theme toggle functionality as it's no longer needed --><!-- SEO --><title>Contact | brunokoga.com</title><meta name="description" content="My contact"><link rel="canonical" href="https://brunokoga.com/contact/"><!-- Open Graph / Facebook --><meta property="og:type" content="website"><meta property="og:url" content="https://brunokoga.com/contact/"><meta property="og:title" content="Contact | brunokoga.com"><meta property="og:description" content="My contact"><meta property="og:image" content="https://brunokoga.com/images/og-image.jpg"><!-- Twitter --><meta property="twitter:card" content="summary_large_image"><meta property="twitter:url" content="https://brunokoga.com/contact/"><meta property="twitter:title" content="Contact | brunokoga.com"><meta property="twitter:description" content="My contact"><meta property="twitter:image" content="https://brunokoga.com/images/og-image.jpg"><!-- RSS Feed --><link rel="alternate" type="application/rss+xml" title="brunokoga.com" href="/rss.xml"><style>html{background-color:#fff}html.dark-theme{background-color:#1a1a1a}
+</style></head> <body class="content container" data-astro-cid-37fxchfa> <!-- Sidebar Navigation --> <header class="masthead" data-astro-cid-37fxchfa> <!-- Profile Section - moved outside masthead-inner --> <div class="profile-section" data-astro-cid-37fxchfa> <div class="profile-image-container" data-astro-cid-37fxchfa> <img src="/images/profile.png" alt="Bruno Koga" class="profile-image" data-astro-cid-37fxchfa> </div> <h1 class="profile-name" data-astro-cid-37fxchfa>Bruno Koga</h1> <p class="profile-bio" data-astro-cid-37fxchfa>iOS Developer &amp; Tech Enthusiast. Sharing thoughts on technology, travel, and life experiences.</p> </div> <!-- Navigation - stays in masthead-inner at bottom --> <div class="masthead-inner" data-astro-cid-37fxchfa> <div class="colophon" data-astro-cid-37fxchfa> <ul class="colophon-links" data-astro-cid-37fxchfa> <li data-astro-cid-37fxchfa> <a href="/" class="" data-astro-cid-37fxchfa> About </a> </li> <li data-astro-cid-37fxchfa> <a href="/posts" class="" data-astro-cid-37fxchfa> Posts </a> </li><li data-astro-cid-37fxchfa> <a href="/projects" class="" data-astro-cid-37fxchfa> Projects </a> </li><li data-astro-cid-37fxchfa> <a href="/adventures" class="" data-astro-cid-37fxchfa> Adventures </a> </li><li data-astro-cid-37fxchfa> <a href="/cv" class="" data-astro-cid-37fxchfa> CV </a> </li><li data-astro-cid-37fxchfa> <a href="/contact" class="selected" data-astro-cid-37fxchfa> Contact </a> </li> </ul> </div> </div> </header> <!-- Main Content --> <main data-astro-cid-37fxchfa>  <div class="posts"> <div class="post"> <h1>Contact</h1> <div class="post-content"> <p>Ways of contacting me:</p>
 <ul>
 <li><a href="mailto:kogabv@gmail.com%22">E-mail: kogabv@gmail.com</a></li>
 <li><a href="https://github.com/brunokoga">Github</a></li>
@@ -36,4 +24,4 @@
 <li><a href="http://polarsteps.com/BrunoKoga">Polarsteps</a></li>
 <li><a href="https://www.strava.com/athletes/14115892">Strava</a></li>
 <li><a href="https://www.duolingo.com/profile/brunokoga">Duolingo</a></li>
-</ul> </div> </div> </div>  </main> <!-- Footer --> <footer> <!-- Empty footer as per original theme --> </footer> </body></html>
+</ul> </div> </div> </div>  </main> <!-- Footer --> <footer data-astro-cid-37fxchfa> <!-- Empty footer as per original theme --> </footer> </body></html>
