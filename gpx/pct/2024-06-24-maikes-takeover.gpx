@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="brunokoga.com" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Maike’s Takeover</name>
+    <desc>Day 68
+PCT Miles: 0
+Total Miles: 1093.4 (1749.4km)
+
+Thanks to my jetlag and Bruno‘s hiker rhythm we had an early start today! 
+We drove 4 hours back to South Lake Tahoe. There, we organised a bear canister for me, had a picnic under pine trees and played snack tetris with our bear canisters.  
+
+Tomorrow morning we will continue (or in my case *start*) the PCT adventure! A kind trail angel 👼 will pick us up and bring us to Echo Lake where Bruno left the trail last Wednesday. 
+I’m excited and at the same time intimidated by the PCT. It will be the first time that I am so far out in nature and away from civilisation 🏕️ Cheers to all the „first times“ to come and let’s goo!! 🤝</desc>
+    <time>2024-06-24T03:49:20.000Z</time>
+  </metadata>
+  <trk>
+    <name>Maike’s Takeover</name>
+    <trkseg>
+    <trkpt lat="38.949344575836264" lon="-119.9555586774576">
+      <time>2024-06-24T13:49:24.557Z</time>
+    </trkpt>
+    <trkpt lat="38.94892942163995" lon="-119.95511789817358">
+      <time>2024-06-24T13:53:35.092Z</time>
+    </trkpt>
+    <trkpt lat="38.94892942163995" lon="-119.95511789817358">
+      <time>2024-06-24T13:53:35.092Z</time>
+    </trkpt>
+    <trkpt lat="38.9487532759448" lon="-119.95533691730346">
+      <time>2024-06-24T13:56:19.000Z</time>
+    </trkpt>
+    <trkpt lat="38.9487532759448" lon="-119.95533691730346">
+      <time>2024-06-24T13:56:19.000Z</time>
+    </trkpt>
+    <trkpt lat="38.9487532759448" lon="-119.95533691730346">
+      <time>2024-06-24T13:56:19.000Z</time>
+    </trkpt>
+    <trkpt lat="38.948763787384145" lon="-119.95538358155069">
+      <time>2024-06-24T13:58:11.638Z</time>
+    </trkpt>
+    <trkpt lat="38.94545981549449" lon="-119.97148296505098">
+      <time>2024-06-24T15:02:14.548Z</time>
+    </trkpt>
+    <trkpt lat="38.913678133822394" lon="-120.00378405488495">
+      <time>2024-06-24T15:08:03.815Z</time>
+    </trkpt>
+    <trkpt lat="38.85287363123004" lon="-120.01910589049332">
+      <time>2024-06-24T15:14:40.873Z</time>
+    </trkpt>
+    <trkpt lat="38.82685073813515" lon="-120.02684211429954">
+      <time>2024-06-24T15:21:08.857Z</time>
+    </trkpt>
+    <trkpt lat="38.834542898364376" lon="-120.04393860869678">
+      <time>2024-06-24T15:26:09.023Z</time>
+    </trkpt>
+    <trkpt lat="38.83897632829736" lon="-120.05169661726806">
+      <time>2024-06-24T16:18:27.144Z</time>
+    </trkpt>
+    <trkpt lat="38.84361868727844" lon="-120.05845779564237">
+      <time>2024-06-24T16:32:10.125Z</time>
+    </trkpt>
+    <trkpt lat="38.84487236853581" lon="-120.06888186570264">
+      <time>2024-06-24T16:58:42.124Z</time>
+    </trkpt>
+    <trkpt lat="38.84638899009567" lon="-120.07554153922952">
+      <time>2024-06-24T17:16:40.059Z</time>
+    </trkpt>
+    <trkpt lat="38.84794245011997" lon="-120.0813346077875">
+      <time>2024-06-24T17:27:23.126Z</time>
+    </trkpt>
+    <trkpt lat="38.84813858665419" lon="-120.0896463544295">
+      <time>2024-06-24T17:44:35.136Z</time>
+    </trkpt>
+    <trkpt lat="38.85022433943939" lon="-120.09832623425879">
+      <time>2024-06-24T18:09:36.041Z</time>
+    </trkpt>
+    <trkpt lat="38.8557484327246" lon="-120.10975378576676">
+      <time>2024-06-24T18:39:43.030Z</time>
+    </trkpt>
+    <trkpt lat="38.85677383284909" lon="-120.11538189847033">
+      <time>2024-06-24T18:49:23.671Z</time>
+    </trkpt>
+    <trkpt lat="38.859992986581155" lon="-120.12307916779082">
+      <time>2024-06-24T19:06:47.033Z</time>
+    </trkpt>
+    <trkpt lat="38.864835170133844" lon="-120.1297224127875">
+      <time>2024-06-24T20:03:59.555Z</time>
+    </trkpt>
+    <trkpt lat="38.869283194689885" lon="-120.13633246544761">
+      <time>2024-06-24T20:32:28.228Z</time>
+    </trkpt>
+    <trkpt lat="38.87124720033153" lon="-120.14164743024868">
+      <time>2024-06-24T21:05:53.954Z</time>
+    </trkpt>
+    <trkpt lat="38.875182126684926" lon="-120.14509465556606">
+      <time>2024-06-24T21:16:10.149Z</time>
+    </trkpt>
+    <trkpt lat="38.87804567817494" lon="-120.14064939703805">
+      <time>2024-06-24T22:12:53.983Z</time>
+    </trkpt>
+    <trkpt lat="38.878111727571934" lon="-120.13464468542499">
+      <time>2024-06-24T22:25:41.520Z</time>
+    </trkpt>
+    <trkpt lat="38.87945748403564" lon="-120.12820805434148">
+      <time>2024-06-24T22:49:09.160Z</time>
+    </trkpt>
+    <trkpt lat="38.88441697232321" lon="-120.12275872763257">
+      <time>2024-06-24T23:24:18.477Z</time>
+    </trkpt>
+    <trkpt lat="38.885997212528146" lon="-120.1170634758846">
+      <time>2024-06-24T23:46:18.142Z</time>
+    </trkpt>
+    <trkpt lat="38.88982078529791" lon="-120.11372697550813">
+      <time>2024-06-25T00:14:21.980Z</time>
+    </trkpt>
+    <trkpt lat="38.892244538328505" lon="-120.1148294472323">
+      <time>2024-06-25T02:45:16.999Z</time>
+    </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

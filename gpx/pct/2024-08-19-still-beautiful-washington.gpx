@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="brunokoga.com" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Still beautiful Washington</name>
+    <desc>Day 125, part 2
+
+Leavenworth must be the most curious village I’ve been in the PCT. It’s fully themed with a Bavarian-style (even the Mc Donald’s and Starbucks signs are Bavarianized!) and the bakeries, restaurants and saloons all serve german beer and food.
+
+I was here for a little bit more than two hours: just enough to grab my last resupply and take another bus to Wenatchee.
+
+The location for this resupply box clearly was not ideal, since I have nothing else to do here. When I sent it, on day 113, I was not sure of what to do. 
+
+Unfortunately I’ll have to skip a few more miles
+of the PCT due five (yes, FIVE) different wildfires that are burning ahead of me: Shoofly, Miner’s Complex, Pioneer, Flat Creek and Easy.
+
+That will take me more than one day of travel (including today). Soon I’ll take a free bus 🆓🚌 to the city of Wenatchee where I’ll stay in a hotel for the night, dry all my gear, do laundry and hopefully eat a good pizza. Tomorrow I’ll take a bus to Pateros, then another to Twisp and from there take another bus to Mazama, where I’ll try to camp and get a ride to Hart’s Pass (where I continue the PCT). My goal is to arrive there with enough time to chill and start hiking on Wednesday (today is Monday).</desc>
+    <time>2024-08-19T21:10:51.454Z</time>
+  </metadata>
+  <trk>
+    <name>Still beautiful Washington</name>
+    <trkseg>
+    <trkpt lat="47.5969174027881" lon="-120.64682922589087">
+      <time>2024-08-19T21:16:16.548Z</time>
+    </trkpt>
+    <trkpt lat="47.56703416970589" lon="-120.60521754727579">
+      <time>2024-08-19T21:22:03.383Z</time>
+    </trkpt>
+    <trkpt lat="47.563434274930344" lon="-120.60072926366112">
+      <time>2024-08-19T21:27:04.030Z</time>
+    </trkpt>
+    <trkpt lat="47.53284340932763" lon="-120.52911149054462">
+      <time>2024-08-19T21:32:05.515Z</time>
+    </trkpt>
+    <trkpt lat="47.52114399806365" lon="-120.46925797138407">
+      <time>2024-08-19T21:38:24.208Z</time>
+    </trkpt>
+    <trkpt lat="47.48566059211681" lon="-120.41019319727612">
+      <time>2024-08-19T21:45:43.643Z</time>
+    </trkpt>
+    <trkpt lat="47.46964461608446" lon="-120.33453238035989">
+      <time>2024-08-19T21:50:44.021Z</time>
+    </trkpt>
+    <trkpt lat="47.462791702754295" lon="-120.33611646864594">
+      <time>2024-08-19T21:56:28.879Z</time>
+    </trkpt>
+    <trkpt lat="47.449143966728364" lon="-120.33155184236074">
+      <time>2024-08-19T22:01:29.029Z</time>
+    </trkpt>
+    <trkpt lat="47.44057031352766" lon="-120.32493987131893">
+      <time>2024-08-19T22:06:30.020Z</time>
+    </trkpt>
+    <trkpt lat="47.434537867699255" lon="-120.32089498559087">
+      <time>2024-08-19T22:12:10.329Z</time>
+    </trkpt>
+    <trkpt lat="47.43099388427369" lon="-120.31678004757505">
+      <time>2024-08-19T23:30:18.036Z</time>
+    </trkpt>
+    <trkpt lat="47.43500669044422" lon="-120.31980033501884">
+      <time>2024-08-20T00:17:51.027Z</time>
+    </trkpt>
+    <trkpt lat="47.43114597221863" lon="-120.32508869961292">
+      <time>2024-08-20T00:34:56.713Z</time>
+    </trkpt>
+    <trkpt lat="47.434581784567634" lon="-120.32073272440354">
+      <time>2024-08-20T00:57:44.919Z</time>
+    </trkpt>
+    <trkpt lat="47.43489002347685" lon="-120.31924981635093">
+      <time>2024-08-20T04:53:35.003Z</time>
+    </trkpt>
+    <trkpt lat="47.434912089332244" lon="-120.31930683982264">
+      <time>2024-08-20T04:59:20.242Z</time>
+    </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

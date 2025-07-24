@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="brunokoga.com" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Behind the scenes 👀</name>
+    <desc>Meistens sind die Dinge nicht so wie sie scheinen 😜 Hier ein paar Fotos aus einer anderen Perspektive: 
+
+1) Irgendwie müssen die ganzen Kirschblüten Fotos ja entstehen … 🌸
+2) Bruno’s a photobomb 📸💣
+3) Unser täglicher Stop am Supermarkt 🍙
+4) Der Struggle die japanischen Zeichen zu verstehen (es gibt drei verschiedene Alphabete!)🈲
+5) Luxus-Klo: alle Sitztoiletten hier haben eine beheizte Klobrille, Musik oder andere Töne und mindestens zwei Spüloptionen 🤪🚽
+6) Wenn es regnet spielt Style keine Rolle mehr 🥸
+7) Multikulti Abendessen 🍌🍠🥖🥟
+8+9+10) Unsere verschiedenen Yukata Kimonos, die wir in fast jeder Unterkunft bekommen 👘 Nach der Dusche behalten wir sie zum Abendbrot und zum Schlafen an. </desc>
+    <time>2023-03-31T02:43:45.000Z</time>
+  </metadata>
+  <trk>
+    <name>Behind the scenes 👀</name>
+    <trkseg>
+    <trkpt lat="33.695204220652315" lon="134.43744925907802">
+      <time>2023-03-31T02:47:00.739Z</time>
+    </trkpt>
+    <trkpt lat="33.687366230509085" lon="134.4234104151461">
+      <time>2023-03-31T03:00:14.172Z</time>
+    </trkpt>
+    <trkpt lat="33.68167266892897" lon="134.4225463870548">
+      <time>2023-03-31T03:21:45.806Z</time>
+    </trkpt>
+    <trkpt lat="33.67842659357346" lon="134.4216600806773">
+      <time>2023-03-31T03:32:08.492Z</time>
+    </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

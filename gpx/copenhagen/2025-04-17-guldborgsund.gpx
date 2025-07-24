@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="brunokoga.com" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Guldborgsund</name>
+    <desc>Staying true to our promise of yesterday, Bruno’s (crazy) circadian rhythm woke us up at 05:45, just in time for sunrise! Our temporary *rooftop* terrace is facing east - meaning we had first class seats for the spectacle 🌅 
+After breakfast outside, we went to the port of Rostock to catch the 9am ferry to Gedser. Together with just a few other cyclists, a Swedish school class and a Japanese German chain-smoking ultra stylish (no irony) rockstar group, we boarded the ship and arrived 2 hours later in Denmark 🇩🇰 When we finally exited from the ‚belly‘ of the ferry it was as if someone has turned the winds up and the temperatures down 🥲 I would have preferred it the other way round but oh well 🤷‍♀️ At least it’s sunny! And we’re not here for leisure anyways hehe 😛 
+With a quick Falafel-Dürüm pit stop in a sleepy but cute town called Nykøbing Falster we detoured to an autoroute Motel in the middle of nowhere, totaling around 58km for the day. Part of the motel is a renowned and exquisite restaurant, that we entered, feeling a little misplaced in our outdoor clothes (at least we’re showered 😮‍💨) but nonetheless we enjoyed the food. Afterwards - reading and catching up on sleep!</desc>
+    <time>2025-04-17T19:17:00.166Z</time>
+  </metadata>
+  <trk>
+    <name>Guldborgsund</name>
+    <trkseg>
+    <trkpt lat="54.8638718901713" lon="11.852918174128842">
+      <time>2025-04-18T08:01:46.867Z</time>
+    </trkpt>
+    <trkpt lat="54.864961118488445" lon="11.852499581884455">
+      <time>2025-04-18T08:02:05.339Z</time>
+    </trkpt>
+    <trkpt lat="54.89238892687009" lon="11.862149750824889">
+      <time>2025-04-18T08:15:43.874Z</time>
+    </trkpt>
+    <trkpt lat="54.92422171873499" lon="11.874422784905763">
+      <time>2025-04-18T08:29:12.868Z</time>
+    </trkpt>
+    <trkpt lat="54.95038922415576" lon="11.865047458570324">
+      <time>2025-04-18T08:42:42.869Z</time>
+    </trkpt>
+    <trkpt lat="54.97155034454071" lon="11.890450995426523">
+      <time>2025-04-18T08:56:12.876Z</time>
+    </trkpt>
+    <trkpt lat="54.984839181466945" lon="11.888986425485358">
+      <time>2025-04-18T09:02:25.879Z</time>
+    </trkpt>
+    <trkpt lat="54.99938450758811" lon="11.895844666298382">
+      <time>2025-04-18T09:17:38.881Z</time>
+    </trkpt>
+    <trkpt lat="55.00809681863782" lon="11.910301163249848">
+      <time>2025-04-18T09:31:09.866Z</time>
+    </trkpt>
+    <trkpt lat="55.00710935337004" lon="11.92112071440734">
+      <time>2025-04-18T10:33:12.868Z</time>
+    </trkpt>
+    <trkpt lat="55.00635229987558" lon="11.959997909154705">
+      <time>2025-04-18T10:42:17.875Z</time>
+    </trkpt>
+    <trkpt lat="54.99618785926606" lon="12.0162191055827">
+      <time>2025-04-18T10:55:57.869Z</time>
+    </trkpt>
+    <trkpt lat="54.99759811447467" lon="12.09157501348489">
+      <time>2025-04-18T11:09:26.866Z</time>
+    </trkpt>
+    <trkpt lat="54.99638676182832" lon="12.143722185876355">
+      <time>2025-04-18T11:19:44.840Z</time>
+    </trkpt>
+    <trkpt lat="54.99524648890446" lon="12.166792300939274">
+      <time>2025-04-18T11:33:25.866Z</time>
+    </trkpt>
+    <trkpt lat="54.99015531973446" lon="12.163838082935813">
+      <time>2025-04-18T12:36:06.080Z</time>
+    </trkpt>
+    <trkpt lat="54.977433644286336" lon="12.190214004378943">
+      <time>2025-04-18T12:42:17.271Z</time>
+    </trkpt>
+    <trkpt lat="54.95113227987191" lon="12.17548239045979">
+      <time>2025-04-18T12:55:58.981Z</time>
+    </trkpt>
+    <trkpt lat="54.924087524465214" lon="12.156940614815946">
+      <time>2025-04-18T13:09:30.870Z</time>
+    </trkpt>
+    <trkpt lat="54.90164082968133" lon="12.150634992879024">
+      <time>2025-04-18T13:22:59.338Z</time>
+    </trkpt>
+    <trkpt lat="54.88206807994738" lon="12.154774898674482">
+      <time>2025-04-18T13:36:31.867Z</time>
+    </trkpt>
+    <trkpt lat="54.88152430394099" lon="12.163102162403922">
+      <time>2025-04-18T14:50:53.397Z</time>
+    </trkpt>
+    <trkpt lat="54.87861067061767" lon="12.179559599619525">
+      <time>2025-04-18T15:15:18.869Z</time>
+    </trkpt>
+    <trkpt lat="54.88053285056248" lon="12.16829306447149">
+      <time>2025-04-18T15:30:02.866Z</time>
+    </trkpt>
+    <trkpt lat="54.88143587490067" lon="12.158185914170144">
+      <time>2025-04-18T15:42:45.723Z</time>
+    </trkpt>
+    <trkpt lat="54.88181084960356" lon="12.155230034553377">
+      <time>2025-04-18T18:21:20.848Z</time>
+    </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

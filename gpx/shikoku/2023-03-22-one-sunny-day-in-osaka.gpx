@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="brunokoga.com" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>One sunny day in Osaka</name>
+    <desc>Woke up to a surprisingly sunny day in Osaka (makes me want to do Freudensprünge hehe) 🌞
+We shared some well deserved pancakes with our fellow hiker friend Tani and continued to spend the day with her. 
+We visited the temple Shitennoji and saw a lake full of turtles chilling in the sun just like us 😎 
+Que vida! 🐢
+Later we enjoyed the sunset from Tsutentaku tower 🌆 We finished the day with Ramen and a walk over the Japanese ‘Timesquare’ called Dotonbori. 
+Maike ✨</desc>
+    <time>2023-03-21T23:06:50.000Z</time>
+  </metadata>
+  <trk>
+    <name>One sunny day in Osaka</name>
+    <trkseg>
+    <trkpt lat="34.66678236812238" lon="135.49123318737787">
+      <time>2023-03-22T02:14:02.044Z</time>
+    </trkpt>
+    <trkpt lat="34.66529800094167" lon="135.4981191550712">
+      <time>2023-03-22T04:25:19.873Z</time>
+    </trkpt>
+    <trkpt lat="34.65933222326884" lon="135.50285241579218">
+      <time>2023-03-22T04:40:09.057Z</time>
+    </trkpt>
+    <trkpt lat="34.65736126064756" lon="135.51123306167824">
+      <time>2023-03-22T04:54:46.970Z</time>
+    </trkpt>
+    <trkpt lat="34.654761864836004" lon="135.51646169287665">
+      <time>2023-03-22T05:12:17.974Z</time>
+    </trkpt>
+    <trkpt lat="34.65109529498909" lon="135.51268770703626">
+      <time>2023-03-22T06:03:41.071Z</time>
+    </trkpt>
+    <trkpt lat="34.65085465528745" lon="135.50713177425007">
+      <time>2023-03-22T07:27:42.303Z</time>
+    </trkpt>
+    <trkpt lat="34.651187888940775" lon="135.50156448695003">
+      <time>2023-03-22T09:20:48.897Z</time>
+    </trkpt>
+    <trkpt lat="34.65199278999999" lon="135.50555418999994">
+      <time>2023-03-22T09:24:54.955Z</time>
+    </trkpt>
+    <trkpt lat="34.656565482760456" lon="135.50582606358034">
+      <time>2023-03-22T09:50:24.041Z</time>
+    </trkpt>
+    <trkpt lat="34.661198328281436" lon="135.50607944851322">
+      <time>2023-03-22T09:58:35.031Z</time>
+    </trkpt>
+    <trkpt lat="34.66571397420342" lon="135.5060896388148">
+      <time>2023-03-22T10:09:24.051Z</time>
+    </trkpt>
+    <trkpt lat="34.66916047597474" lon="135.50149467514626">
+      <time>2023-03-22T11:23:48.905Z</time>
+    </trkpt>
+    <trkpt lat="34.66811702357032" lon="135.49468812449555">
+      <time>2023-03-22T11:43:31.953Z</time>
+    </trkpt>
+    <trkpt lat="34.66465916324354" lon="135.49066305198843">
+      <time>2023-03-22T11:55:14.942Z</time>
+    </trkpt>
+    <trkpt lat="34.663100936482344" lon="135.48914465134544">
+      <time>2023-03-22T15:14:57.047Z</time>
+    </trkpt>
+    <trkpt lat="34.66732107012776" lon="135.49555455313364">
+      <time>2023-03-23T02:26:10.971Z</time>
+    </trkpt>
+    <trkpt lat="34.66666204000021" lon="135.4951302151838">
+      <time>2023-03-23T02:37:17.451Z</time>
+    </trkpt>
+    <trkpt lat="34.666499548300486" lon="135.49525861440384">
+      <time>2023-03-23T02:59:51.342Z</time>
+    </trkpt>
+    <trkpt lat="34.666495974135906" lon="135.49526046022768">
+      <time>2023-03-23T03:01:09.460Z</time>
+    </trkpt>
+    <trkpt lat="34.666516195597474" lon="135.4952129345269">
+      <time>2023-03-23T03:01:39.461Z</time>
+    </trkpt>
+    <trkpt lat="34.666507018564566" lon="135.49525235069342">
+      <time>2023-03-23T03:04:50.472Z</time>
+    </trkpt>
+    <trkpt lat="34.666507018564566" lon="135.49525235069342">
+      <time>2023-03-23T03:04:50.472Z</time>
+    </trkpt>
+    <trkpt lat="34.66653185688664" lon="135.4951846460403">
+      <time>2023-03-23T03:05:33.430Z</time>
+    </trkpt>
+    <trkpt lat="34.66653185688664" lon="135.4951846460403">
+      <time>2023-03-23T03:05:33.430Z</time>
+    </trkpt>
+    <trkpt lat="34.66653185688664" lon="135.4951846460403">
+      <time>2023-03-23T03:05:33.430Z</time>
+    </trkpt>
+    <trkpt lat="34.66654220235382" lon="135.49527257551057">
+      <time>2023-03-23T03:08:58.340Z</time>
+    </trkpt>
+    <trkpt lat="34.66654220235382" lon="135.49527257551057">
+      <time>2023-03-23T03:08:58.340Z</time>
+    </trkpt>
+    <trkpt lat="34.66654220235382" lon="135.49527257551057">
+      <time>2023-03-23T03:08:58.340Z</time>
+    </trkpt>
+    <trkpt lat="34.66654220235382" lon="135.49527257551057">
+      <time>2023-03-23T03:08:58.340Z</time>
+    </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

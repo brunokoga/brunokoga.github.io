@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="brunokoga.com" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Last post and next steps</name>
+    <desc>They say “it’s not the destination, it’s the journey”. Well, that might be true. But I must say that arriving at your destination after having walked almost 1200km in 45 days feels *awesome*! 🏆
+
+Bruno 🟣</desc>
+    <time>2023-05-08T04:06:04.159Z</time>
+  </metadata>
+  <trk>
+    <name>Last post and next steps</name>
+    <trkseg>
+    <trkpt lat="34.15901558476887" lon="134.50253974658855">
+      <time>2023-05-08T04:06:04.159Z</time>
+    </trkpt>
+    <trkpt lat="34.15839164002417" lon="134.5084817423088">
+      <time>2023-05-08T04:50:22.505Z</time>
+    </trkpt>
+    <trkpt lat="34.15483209307693" lon="134.51978417125952">
+      <time>2023-05-08T05:06:30.385Z</time>
+    </trkpt>
+    <trkpt lat="34.154111505461195" lon="134.5251469517453">
+      <time>2023-05-08T05:13:57.065Z</time>
+    </trkpt>
+    <trkpt lat="34.14166070013806" lon="134.4680176304915">
+      <time>2023-05-08T05:37:55.589Z</time>
+    </trkpt>
+    <trkpt lat="34.179193443578384" lon="134.44771485293265">
+      <time>2023-05-08T05:43:00.414Z</time>
+    </trkpt>
+    <trkpt lat="34.21741244614017" lon="134.41499396912013">
+      <time>2023-05-08T05:48:07.095Z</time>
+    </trkpt>
+    <trkpt lat="34.23333918229407" lon="134.37754265276158">
+      <time>2023-05-08T05:53:08.682Z</time>
+    </trkpt>
+    <trkpt lat="34.25104457867287" lon="134.31730503006395">
+      <time>2023-05-08T05:58:09.318Z</time>
+    </trkpt>
+    <trkpt lat="34.28694870478161" lon="134.25171682493678">
+      <time>2023-05-08T06:05:58.481Z</time>
+    </trkpt>
+    <trkpt lat="34.317570154513824" lon="134.17435095053017">
+      <time>2023-05-08T06:13:40.371Z</time>
+    </trkpt>
+    <trkpt lat="34.336688434909966" lon="134.10953162906313">
+      <time>2023-05-08T06:19:39.913Z</time>
+    </trkpt>
+    <trkpt lat="34.33150923005681" lon="134.0529417690695">
+      <time>2023-05-08T06:25:04.866Z</time>
+    </trkpt>
+    <trkpt lat="34.351383489593175" lon="134.04571991744044">
+      <time>2023-05-08T06:30:41.716Z</time>
+    </trkpt>
+    <trkpt lat="34.34649304137279" lon="134.04361509256006">
+      <time>2023-05-08T07:58:22.260Z</time>
+    </trkpt>
+    <trkpt lat="34.34121428031977" lon="134.04217252869495">
+      <time>2023-05-08T08:07:16.229Z</time>
+    </trkpt>
+    <trkpt lat="34.34010134116866" lon="134.04794415762126">
+      <time>2023-05-08T08:20:44.176Z</time>
+    </trkpt>
+    <trkpt lat="34.34381310009504" lon="134.05162841168814">
+      <time>2023-05-08T09:07:45.149Z</time>
+    </trkpt>
+    <trkpt lat="34.34660018548403" lon="134.04533975978967">
+      <time>2023-05-08T09:21:32.605Z</time>
+    </trkpt>
+    <trkpt lat="34.34786874804119" lon="134.04428207327987">
+      <time>2023-05-08T13:00:30.000Z</time>
+    </trkpt>
+    <trkpt lat="34.348236294495265" lon="134.04439967138137">
+      <time>2023-05-08T13:10:04.000Z</time>
+    </trkpt>
+    <trkpt lat="34.348236294495265" lon="134.04439967138137">
+      <time>2023-05-08T13:10:04.000Z</time>
+    </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

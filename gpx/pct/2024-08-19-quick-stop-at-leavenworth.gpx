@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="brunokoga.com" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Quick stop at Leavenworth</name>
+    <desc>Day 125, part 1
+Mile 2463.4 to Steven’s Pass
+PCT Miles: 3.4 (5.4km)
+Total Miles: 2466.8 (3946.9km)
+
+It didn’t rain during the night but everything I had was a bit (very) wet this morning due the wet ground and the condensation. To make the situation slightly more uncomfortable, I left one of my shoes kind of not exactly under the rain fly: in the morning it had a little pool inside the shoe.
+
+Packing and breaking out camp was horrible but the prospect of hot coffee and town food helped with the motivation. My tent was so wet that it lept dripping from my backpack on my butt for the whole 3.4 miles to Steven’s Pass (which is basically a mini convenience store).
+
+Two large lattes and few snacks later, at 11:30am, me, Sarah, Pete and Nick took the bus to the curious town of Leavenworth (where I had my last resupply box waiting for me).</desc>
+    <time>2024-08-19T15:55:19.821Z</time>
+  </metadata>
+  <trk>
+    <name>Quick stop at Leavenworth</name>
+    <trkseg>
+    <trkpt lat="47.74447158951669" lon="-121.08975786705716">
+      <time>2024-08-19T15:55:19.821Z</time>
+    </trkpt>
+    <trkpt lat="47.747492361304325" lon="-121.08727839459345">
+      <time>2024-08-19T18:46:04.412Z</time>
+    </trkpt>
+    <trkpt lat="47.75927491133177" lon="-121.07343379076019">
+      <time>2024-08-19T18:51:08.251Z</time>
+    </trkpt>
+    <trkpt lat="47.77040942390032" lon="-120.9567933757759">
+      <time>2024-08-19T18:58:59.269Z</time>
+    </trkpt>
+    <trkpt lat="47.75039558768994" lon="-120.73810692887821">
+      <time>2024-08-19T19:09:46.380Z</time>
+    </trkpt>
+    <trkpt lat="47.64645713851568" lon="-120.72410102013565">
+      <time>2024-08-19T19:17:16.150Z</time>
+    </trkpt>
+    <trkpt lat="47.597288140140094" lon="-120.71344762120462">
+      <time>2024-08-19T19:23:43.392Z</time>
+    </trkpt>
+    <trkpt lat="47.59485701897005" lon="-120.66454224723874">
+      <time>2024-08-19T19:28:49.437Z</time>
+    </trkpt>
+    <trkpt lat="47.59811668628364" lon="-120.64508492783985">
+      <time>2024-08-19T19:34:15.567Z</time>
+    </trkpt>
+    <trkpt lat="47.59867232884123" lon="-120.65169002679202">
+      <time>2024-08-19T19:41:20.029Z</time>
+    </trkpt>
+    <trkpt lat="47.59575687716919" lon="-120.6613602082963">
+      <time>2024-08-19T19:46:28.626Z</time>
+    </trkpt>
+    <trkpt lat="47.598677454980724" lon="-120.6557973343548">
+      <time>2024-08-19T21:10:51.454Z</time>
+    </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

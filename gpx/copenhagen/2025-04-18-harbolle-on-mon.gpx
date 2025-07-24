@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="brunokoga.com" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Hårbølle on Møn</name>
+    <desc>Yesterday we left the official path and detoured to the motel because the ferry that would have brought us to Bogø and then to Møn is only running as of May 1st. Happens, when you’re so early in the season!  So instead of a ferry, we went via the very trustworthy-looking, not-rusty-at-all Storstrømsbroen bridge. From the bridge we had a beautiful view on the new Storstrømsbroen bridge that is being build to replace this one in the coming year. With this in mind and heavy wind gusts from the side, I couldn’t bike fast enough to be on land again haha 😮‍💨 
+After an uneventful 60km (with very delicious coffee stops though) we arrived on the Island of Møn, in Hårbølle, at our most beautiful camp site yet: we’ve pitched the tent between the dunes, right next to the ocean. Lovely! 🌅</desc>
+    <time>2025-04-18T18:51:02.797Z</time>
+  </metadata>
+  <trk>
+    <name>Hårbølle on Møn</name>
+    <trkseg>
+    <trkpt lat="54.89360426999999" lon="12.142243379999998">
+      <time>2025-04-18T19:07:32.844Z</time>
+    </trkpt>
+    <trkpt lat="54.881782216672455" lon="12.155273021849787">
+      <time>2025-04-18T19:13:29.286Z</time>
+    </trkpt>
+    <trkpt lat="54.893604270000004" lon="12.14224338">
+      <time>2025-04-19T07:58:37.354Z</time>
+    </trkpt>
+    <trkpt lat="54.88189873723268" lon="12.155140222190704">
+      <time>2025-04-19T08:06:42.752Z</time>
+    </trkpt>
+    <trkpt lat="55.59380528621487" lon="12.288777941992077">
+      <time>2025-04-19T18:42:43.295Z</time>
+    </trkpt>
+    <trkpt lat="54.88191103314773" lon="12.155085070617833">
+      <time>2025-04-19T18:43:33.281Z</time>
+    </trkpt>
+    <trkpt lat="55.59380529423696" lon="12.288777902533749">
+      <time>2025-04-19T19:49:54.788Z</time>
+    </trkpt>
+    <trkpt lat="54.88192272096536" lon="12.155259163519876">
+      <time>2025-04-19T19:57:53.700Z</time>
+    </trkpt>
+    <trkpt lat="55.59380528637206" lon="12.288777941218871">
+      <time>2025-04-19T20:51:34.724Z</time>
+    </trkpt>
+    <trkpt lat="54.881878736369146" lon="12.154969394745908">
+      <time>2025-04-19T21:09:32.672Z</time>
+    </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="brunokoga.com" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Very little 🤏</name>
+    <desc>Day 65
+PCT Miles: 0
+Total Miles: 1093.4 (1749.4km)
+
+Today I did very little. I ate a breakfast burrito, burger and fries. I quickly went to the equipment store to buy a new pair of shorts and a sun hoodie. I slowly aired my tent, sleeping bag and mat. I chilled in the hammock. I listened to music. And that was about it!</desc>
+    <time>2024-06-21T03:40:42.911Z</time>
+  </metadata>
+  <trk>
+    <name>Very little 🤏</name>
+    <trkseg>
+    <trkpt lat="37.27710921320811" lon="-121.88739451591101">
+      <time>2024-06-21T03:45:11.990Z</time>
+    </trkpt>
+    <trkpt lat="37.27710921320811" lon="-121.88739451591101">
+      <time>2024-06-21T03:45:11.990Z</time>
+    </trkpt>
+    <trkpt lat="37.27706908999998" lon="-121.88848875999996">
+      <time>2024-06-21T09:33:26.662Z</time>
+    </trkpt>
+    <trkpt lat="37.27724884382002" lon="-121.8874128965201">
+      <time>2024-06-21T13:49:41.938Z</time>
+    </trkpt>
+    <trkpt lat="37.277191895596964" lon="-121.88741469001195">
+      <time>2024-06-21T17:04:13.999Z</time>
+    </trkpt>
+    <trkpt lat="37.27724884382002" lon="-121.8874128965201">
+      <time>2024-06-21T17:05:28.058Z</time>
+    </trkpt>
+    <trkpt lat="37.27724884382002" lon="-121.8874128965201">
+      <time>2024-06-21T17:05:28.058Z</time>
+    </trkpt>
+    <trkpt lat="37.2745798751882" lon="-121.89323378204841">
+      <time>2024-06-21T21:36:11.036Z</time>
+    </trkpt>
+    <trkpt lat="37.27119964711562" lon="-121.90566175050607">
+      <time>2024-06-21T21:41:11.047Z</time>
+    </trkpt>
+    <trkpt lat="37.275097628376486" lon="-121.90868200796442">
+      <time>2024-06-21T21:46:24.037Z</time>
+    </trkpt>
+    <trkpt lat="37.294267568788634" lon="-121.91348017970856">
+      <time>2024-06-21T21:51:24.042Z</time>
+    </trkpt>
+    <trkpt lat="37.31703145317045" lon="-121.93063526623875">
+      <time>2024-06-21T21:56:24.042Z</time>
+    </trkpt>
+    <trkpt lat="37.33167192102978" lon="-122.0161441108962">
+      <time>2024-06-21T22:01:24.043Z</time>
+    </trkpt>
+    <trkpt lat="37.3717066666426" lon="-122.06666813073593">
+      <time>2024-06-21T22:06:25.036Z</time>
+    </trkpt>
+    <trkpt lat="37.4167382918836" lon="-122.08633087259223">
+      <time>2024-06-21T22:11:25.072Z</time>
+    </trkpt>
+    <trkpt lat="37.45439862077884" lon="-122.1303704177422">
+      <time>2024-06-21T22:16:26.033Z</time>
+    </trkpt>
+    <trkpt lat="37.48760640685622" lon="-122.20549493205503">
+      <time>2024-06-21T22:21:26.041Z</time>
+    </trkpt>
+    <trkpt lat="37.52631341228005" lon="-122.26997416863402">
+      <time>2024-06-21T22:26:27.034Z</time>
+    </trkpt>
+    <trkpt lat="37.55107771831159" lon="-122.29383820787544">
+      <time>2024-06-21T22:31:27.052Z</time>
+    </trkpt>
+    <trkpt lat="37.588429207842786" lon="-122.35807078896504">
+      <time>2024-06-21T22:36:28.039Z</time>
+    </trkpt>
+    <trkpt lat="37.61366500432613" lon="-122.39249927781569">
+      <time>2024-06-21T22:41:35.467Z</time>
+    </trkpt>
+    <trkpt lat="37.615687760483844" lon="-122.39026587782892">
+      <time>2024-06-21T23:35:14.217Z</time>
+    </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

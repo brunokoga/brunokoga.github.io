@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="brunokoga.com" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Great hiking day!</name>
+    <desc>Day 54
+Mile 907.8 to mile 924.4
+PCT Miles: 16.6 (26.6km)
+Total Miles: 924.4 (1479.0km)
+
+Even though I didn’t sleep well during the night, my morning was very good. I woke up around 6am took a shower because why not? And had warm breakfast and coffee at the hotel. When I couldn’t eat anymore, I packed my stuff (I think it’s the heaviest my backpack has ever been), called my beautiful German family 💜 and lazily went to the bus stop to take a trolley to the ski station and from there take a bus back to where I left the trail yesterday.
+
+To my surprise, as soon as I got off the bus I saw Tangent seating on a picnic table having breakfast. He was clear happy and surprised to see me! He told me that Geezer was really scared about what could have happened to me because I disappeared. He explained that Bullfrog and Geezer returned to trail yesterday but he still needs to go back to Mammoth to grab a package at the post office (he couldn’t do it today nor yesterday: weekend).
+
+I stayed talking to Tangent and Rocky (a guy from Lithuania 🇱🇹 who hikes in flip-flops 🩴 and brings a ukulele on top of his gigantic backpack) for an hour or so and started my hiking day around 11:30.
+
+There’s another broken bridge on the PCT so I had to do this tiny reroute. For about 3-4 miles I hiked a bit of the Rainbow Falls Trail then Devil’s Postpile Trail and also a bit of road walk. Both trails were packed with tourists and day hikers: the trails, parking, amenities and campgrounds in this area opened two days ago. I think it’s super cool that people from all ages and backgrounds go out for day hikes like this. Hiking such a pleasurable way of spending time 😊!
+
+Around 1pm I was back at the PCT. I kept hiking for 12 more miles and found a campsite only after 7pm. I saw quite a few new people on the PCT today (around 6-8 people). I was in a good mood and I felt super motivated the whole day. The hike itself was also good: very little snow and dry feet!
+
+There were some incredible views today, including from where I’m camping tonight. This place is unbelievable 🤩!
+
+I have the ambitious plan to do two passes tomorrow morning. The first (Island Pass) should be fairly easy but the second should be a bit challenging. It’s the Donohue Pass. After crossing it, I’ll be hiking for a few days on the Yosemite National Park 🏞️! Let’s see how it goes!</desc>
+    <time>2024-06-10T03:39:26.943Z</time>
+  </metadata>
+  <trk>
+    <name>Great hiking day!</name>
+    <trkseg>
+    <trkpt lat="37.730055274476975" lon="-119.17478827770722">
+      <time>2024-06-10T04:18:19.189Z</time>
+    </trkpt>
+    <trkpt lat="37.730055274476975" lon="-119.17478827770722">
+      <time>2024-06-10T04:18:19.189Z</time>
+    </trkpt>
+    <trkpt lat="37.73003167941955" lon="-119.17478760715497">
+      <time>2024-06-10T12:12:01.821Z</time>
+    </trkpt>
+    <trkpt lat="37.73152914833066" lon="-119.18209184903574">
+      <time>2024-06-10T13:06:09.975Z</time>
+    </trkpt>
+    <trkpt lat="37.73291782013861" lon="-119.19188543233945">
+      <time>2024-06-10T13:22:13.974Z</time>
+    </trkpt>
+    <trkpt lat="37.73807885128794" lon="-119.19487031187786">
+      <time>2024-06-10T13:35:55.870Z</time>
+    </trkpt>
+    <trkpt lat="37.74055662568448" lon="-119.20033883314505">
+      <time>2024-06-10T13:58:22.911Z</time>
+    </trkpt>
+    <trkpt lat="37.73988741453526" lon="-119.2070380692549">
+      <time>2024-06-10T14:15:08.135Z</time>
+    </trkpt>
+    <trkpt lat="37.74357704449235" lon="-119.21153387065903">
+      <time>2024-06-10T14:31:03.951Z</time>
+    </trkpt>
+    <trkpt lat="37.74778438269882" lon="-119.2160340306528">
+      <time>2024-06-10T15:17:30.166Z</time>
+    </trkpt>
+    <trkpt lat="37.75209012444853" lon="-119.22068263415174">
+      <time>2024-06-10T15:50:17.926Z</time>
+    </trkpt>
+    <trkpt lat="37.75674933105498" lon="-119.22533794317322">
+      <time>2024-06-10T16:14:48.923Z</time>
+    </trkpt>
+    <trkpt lat="37.76071740783542" lon="-119.22921742323713">
+      <time>2024-06-10T16:42:13.092Z</time>
+    </trkpt>
+    <trkpt lat="37.76182863864839" lon="-119.23472114849764">
+      <time>2024-06-10T17:02:07.028Z</time>
+    </trkpt>
+    <trkpt lat="37.760184989345966" lon="-119.2404787616052">
+      <time>2024-06-10T17:23:05.919Z</time>
+    </trkpt>
+    <trkpt lat="37.75950266051829" lon="-119.24609145160694">
+      <time>2024-06-10T17:40:37.912Z</time>
+    </trkpt>
+    <trkpt lat="37.763902028126424" lon="-119.25147288490017">
+      <time>2024-06-10T18:29:39.553Z</time>
+    </trkpt>
+    <trkpt lat="37.76218922812283" lon="-119.25697577197035">
+      <time>2024-06-10T18:57:07.912Z</time>
+    </trkpt>
+    <trkpt lat="37.76721237696499" lon="-119.25687745224614">
+      <time>2024-06-10T19:30:03.923Z</time>
+    </trkpt>
+    <trkpt lat="37.7721357392499" lon="-119.25873613927443">
+      <time>2024-06-10T20:36:13.883Z</time>
+    </trkpt>
+    <trkpt lat="37.777335830068004" lon="-119.26168539572438">
+      <time>2024-06-10T20:54:29.873Z</time>
+    </trkpt>
+    <trkpt lat="37.78176428288015" lon="-119.26340108748457">
+      <time>2024-06-10T21:02:42.875Z</time>
+    </trkpt>
+    <trkpt lat="37.78802489399704" lon="-119.26324484880945">
+      <time>2024-06-10T21:23:54.047Z</time>
+    </trkpt>
+    <trkpt lat="37.80094392135534" lon="-119.26317368645152">
+      <time>2024-06-10T21:50:26.897Z</time>
+    </trkpt>
+    <trkpt lat="37.8054104699174" lon="-119.2650867720314">
+      <time>2024-06-10T21:58:02.865Z</time>
+    </trkpt>
+    <trkpt lat="37.81215073544328" lon="-119.26838672731003">
+      <time>2024-06-10T22:09:31.147Z</time>
+    </trkpt>
+    <trkpt lat="37.81564498323743" lon="-119.27201382826945">
+      <time>2024-06-10T22:19:13.033Z</time>
+    </trkpt>
+    <trkpt lat="37.820837320795114" lon="-119.27631667826257">
+      <time>2024-06-10T22:28:46.858Z</time>
+    </trkpt>
+    <trkpt lat="37.82483021383082" lon="-119.27894137665558">
+      <time>2024-06-10T22:39:25.026Z</time>
+    </trkpt>
+    <trkpt lat="37.82610362864828" lon="-119.2796276976534">
+      <time>2024-06-11T00:48:27.998Z</time>
+    </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="brunokoga.com" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Waren (Müritz)</name>
+    <desc>The day started with a challenging off-road stretch through the forest. If I didn’t know that it’s spring , I’d mistake it for fall 🍁🍂 
+Speaking of spring - the weather gods are on our side and bathe us in sunshine and a gezellig warm 18 degrees ! 
+After a second breakfast in Wesenberg, where we got some good ol’ Remouladenbrötchen, it was time to hit the pedals because we had 76km ahead of us! 76km full of lush green teletubby-like hills, perky clouds, endless fields and blossoming magnolia and cherry blossom trees 🌲 Mecklenburgische Seenplatte, you’re stunning!  Your beauty almost makes up for the burning leg muscles and more that your hills have caused us 😝 
+Upon arrival at our final destination Waren, we turned into two hungry vegetarians that were stranded in a city full of meat and fish restaurants. So we ended up at - surprise - an Italian restaurant again! Gnocchi the third, this time was the best 🏆
+Now, we’re camped at the Müritz lake with nice, chatty neighbours who let us use their electricity to write some Polarsteps 😎 Bonne nuit!</desc>
+    <time>2025-04-14T19:47:06.926Z</time>
+  </metadata>
+  <trk>
+    <name>Waren (Müritz)</name>
+    <trkseg>
+    <trkpt lat="53.5137070064" lon="12.646602261823272">
+      <time>2025-04-15T07:54:13.253Z</time>
+    </trkpt>
+    <trkpt lat="53.529308368501745" lon="12.577349888172538">
+      <time>2025-04-15T08:11:49.264Z</time>
+    </trkpt>
+    <trkpt lat="53.54240773250679" lon="12.556140655663382">
+      <time>2025-04-15T08:23:04.255Z</time>
+    </trkpt>
+    <trkpt lat="53.53129454427727" lon="12.527328953158602">
+      <time>2025-04-15T08:44:18.205Z</time>
+    </trkpt>
+    <trkpt lat="53.527906201829694" lon="12.466215742763566">
+      <time>2025-04-15T08:58:59.052Z</time>
+    </trkpt>
+    <trkpt lat="53.51990056229152" lon="12.422962272551304">
+      <time>2025-04-15T09:12:28.964Z</time>
+    </trkpt>
+    <trkpt lat="53.560165632566026" lon="12.398485271271689">
+      <time>2025-04-15T09:28:59.255Z</time>
+    </trkpt>
+    <trkpt lat="53.581462958877516" lon="12.37383853645285">
+      <time>2025-04-15T09:42:29.251Z</time>
+    </trkpt>
+    <trkpt lat="53.5965963593252" lon="12.383896652620642">
+      <time>2025-04-15T09:51:43.289Z</time>
+    </trkpt>
+    <trkpt lat="53.61839609691279" lon="12.35906752758879">
+      <time>2025-04-15T10:05:25.166Z</time>
+    </trkpt>
+    <trkpt lat="53.63350795586932" lon="12.326169563468849">
+      <time>2025-04-15T10:17:18.255Z</time>
+    </trkpt>
+    <trkpt lat="53.64553837576289" lon="12.335335258405967">
+      <time>2025-04-15T10:47:14.208Z</time>
+    </trkpt>
+    <trkpt lat="53.66902488754472" lon="12.306988500070112">
+      <time>2025-04-15T11:05:26.266Z</time>
+    </trkpt>
+    <trkpt lat="53.65863543474456" lon="12.271869499247774">
+      <time>2025-04-15T11:18:58.265Z</time>
+    </trkpt>
+    <trkpt lat="53.65270762709309" lon="12.272379705693826">
+      <time>2025-04-15T11:36:27.232Z</time>
+    </trkpt>
+    <trkpt lat="53.65275573388662" lon="12.267639158542162">
+      <time>2025-04-15T11:44:35.384Z</time>
+    </trkpt>
+    <trkpt lat="53.652884213206534" lon="12.272039887783558">
+      <time>2025-04-15T11:45:07.515Z</time>
+    </trkpt>
+    <trkpt lat="53.65287895977228" lon="12.272605199193075">
+      <time>2025-04-15T11:45:11.020Z</time>
+    </trkpt>
+    <trkpt lat="53.65657043457031" lon="12.268234252929688">
+      <time>2025-04-15T11:45:17.457Z</time>
+    </trkpt>
+    <trkpt lat="53.65286919988954" lon="12.272656430821357">
+      <time>2025-04-15T11:49:46.011Z</time>
+    </trkpt>
+    <trkpt lat="53.65657043457031" lon="12.268234252929688">
+      <time>2025-04-15T11:50:04.132Z</time>
+    </trkpt>
+    <trkpt lat="53.65269476990575" lon="12.272391992590034">
+      <time>2025-04-15T11:51:12.789Z</time>
+    </trkpt>
+    <trkpt lat="53.65220642089844" lon="12.267379760742188">
+      <time>2025-04-15T11:51:54.759Z</time>
+    </trkpt>
+    <trkpt lat="53.653305053710945" lon="12.267898559570312">
+      <time>2025-04-15T11:52:34.976Z</time>
+    </trkpt>
+    <trkpt lat="53.6527557372734" lon="12.267639160141467">
+      <time>2025-04-15T11:52:56.680Z</time>
+    </trkpt>
+    <trkpt lat="53.653305053710945" lon="12.267898559570312">
+      <time>2025-04-15T11:53:24.655Z</time>
+    </trkpt>
+    <trkpt lat="53.65222167000001" lon="12.26750373">
+      <time>2025-04-15T11:54:14.006Z</time>
+    </trkpt>
+    <trkpt lat="53.652836683122054" lon="12.272725445833261">
+      <time>2025-04-15T12:17:25.998Z</time>
+    </trkpt>
+    <trkpt lat="53.65181922917594" lon="12.22321531736499">
+      <time>2025-04-15T12:48:17.308Z</time>
+    </trkpt>
+    <trkpt lat="53.67536630020819" lon="12.184507520880722">
+      <time>2025-04-15T13:01:46.228Z</time>
+    </trkpt>
+    <trkpt lat="53.69100454268389" lon="12.15736482293546">
+      <time>2025-04-15T13:09:31.305Z</time>
+    </trkpt>
+    <trkpt lat="53.710316196134045" lon="12.19899212011341">
+      <time>2025-04-15T13:23:13.244Z</time>
+    </trkpt>
+    <trkpt lat="53.74390352988033" lon="12.22313962877935">
+      <time>2025-04-15T13:36:44.289Z</time>
+    </trkpt>
+    <trkpt lat="53.78063147892596" lon="12.213010517891695">
+      <time>2025-04-15T13:54:14.296Z</time>
+    </trkpt>
+    <trkpt lat="53.79172245948392" lon="12.215857083810342">
+      <time>2025-04-15T14:07:42.253Z</time>
+    </trkpt>
+    <trkpt lat="53.79074478" lon="12.21786499">
+      <time>2025-04-15T14:10:12.990Z</time>
+    </trkpt>
+    <trkpt lat="53.79177039882001" lon="12.215496087254714">
+      <time>2025-04-15T14:11:14.732Z</time>
+    </trkpt>
+    <trkpt lat="53.79179207408583" lon="12.215557723286615">
+      <time>2025-04-15T14:12:44.061Z</time>
+    </trkpt>
+    <trkpt lat="53.79186281741063" lon="12.214948801783805">
+      <time>2025-04-15T18:06:23.301Z</time>
+    </trkpt>
+    <trkpt lat="53.79154648408542" lon="12.214891543079586">
+      <time>2025-04-15T19:37:51.287Z</time>
+    </trkpt>
+    <trkpt lat="53.79177201589367" lon="12.215581179479313">
+      <time>2025-04-16T05:10:25.578Z</time>
+    </trkpt>
+    <trkpt lat="53.78591522113773" lon="12.214127406489302">
+      <time>2025-04-16T07:33:00.375Z</time>
+    </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="brunokoga.com" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Mount Shasta in-and-out</name>
+    <desc>Day 94
+Mile 1465.0 to mile 1497.5
+PCT Miles:  32.5 (52km)
+Total Miles: 1497.5 (2396.0km)
+
+Today was a good hiking day. Since leaving camp at 5:45 I kept a good pace. The trail was mostly flat and it’s much more enjoyable to hike early in the morning, before the sun shows up with full power.
+
+My first real break was around noon, after having crushed 17 miles already. I took a 45 minute lunch break and then kept going for one and a half hour more. Time for another break (with trail angel candies) and to camel up 🐫🆙 for the next stretch: 10 miles uphill in the hottest time of the day.
+
+At least here the trees 🌲 still have their leaves and they provided good shade. I kept more or less the same pace until I arrived at camp around 7:30pm after hiking 52km today!</desc>
+    <time>2024-07-20T03:49:31.992Z</time>
+  </metadata>
+  <trk>
+    <name>Mount Shasta in-and-out</name>
+    <trkseg>
+    <trkpt lat="41.15582074042517" lon="-122.2676164192355">
+      <time>2024-07-20T03:53:29.000Z</time>
+    </trkpt>
+    <trkpt lat="41.183529874930095" lon="-122.28247437441618">
+      <time>2024-07-20T12:31:40.513Z</time>
+    </trkpt>
+    <trkpt lat="41.15588146731365" lon="-122.26756830711129">
+      <time>2024-07-20T12:42:04.245Z</time>
+    </trkpt>
+    <trkpt lat="41.22366056822466" lon="-122.27371289839562">
+      <time>2024-07-20T12:49:24.946Z</time>
+    </trkpt>
+    <trkpt lat="41.15552204205198" lon="-122.26962392410694">
+      <time>2024-07-20T12:54:25.022Z</time>
+    </trkpt>
+    <trkpt lat="41.1588804284494" lon="-122.275424748773">
+      <time>2024-07-20T13:12:58.018Z</time>
+    </trkpt>
+    <trkpt lat="41.182380319233864" lon="-122.27500571729249">
+      <time>2024-07-20T13:18:21.015Z</time>
+    </trkpt>
+    <trkpt lat="41.2490865790572" lon="-122.25146681679182">
+      <time>2024-07-20T13:24:20.425Z</time>
+    </trkpt>
+    <trkpt lat="41.18924909761651" lon="-122.28561320972462">
+      <time>2024-07-20T13:30:50.092Z</time>
+    </trkpt>
+    <trkpt lat="41.15806239660937" lon="-122.28217042062644">
+      <time>2024-07-20T13:43:58.261Z</time>
+    </trkpt>
+    <trkpt lat="41.18270360788928" lon="-122.28509307532718">
+      <time>2024-07-20T13:49:15.000Z</time>
+    </trkpt>
+    <trkpt lat="41.16200782703579" lon="-122.28204319186037">
+      <time>2024-07-20T13:55:18.573Z</time>
+    </trkpt>
+    <trkpt lat="41.16103080570806" lon="-122.2888022662348">
+      <time>2024-07-20T14:08:33.022Z</time>
+    </trkpt>
+    <trkpt lat="41.189800713172914" lon="-122.28531677323738">
+      <time>2024-07-20T14:20:23.484Z</time>
+    </trkpt>
+    <trkpt lat="41.16036104973514" lon="-122.29208227258388">
+      <time>2024-07-20T14:30:04.145Z</time>
+    </trkpt>
+    <trkpt lat="41.19425124381413" lon="-122.28342714042302">
+      <time>2024-07-20T14:38:12.096Z</time>
+    </trkpt>
+    <trkpt lat="41.212780425388296" lon="-122.27178714178633">
+      <time>2024-07-20T14:44:55.433Z</time>
+    </trkpt>
+    <trkpt lat="41.22410100011054" lon="-122.27354283265163">
+      <time>2024-07-20T14:49:59.578Z</time>
+    </trkpt>
+    <trkpt lat="41.295401162682126" lon="-122.30650900890916">
+      <time>2024-07-20T14:55:56.594Z</time>
+    </trkpt>
+    <trkpt lat="41.313318632915596" lon="-122.31088393562605">
+      <time>2024-07-20T15:03:13.174Z</time>
+    </trkpt>
+    <trkpt lat="41.31417668428394" lon="-122.3137634062416">
+      <time>2024-07-20T15:46:35.244Z</time>
+    </trkpt>
+    <trkpt lat="41.31414022300515" lon="-122.31369744066365">
+      <time>2024-07-20T15:49:10.017Z</time>
+    </trkpt>
+    <trkpt lat="41.31414022300515" lon="-122.31369744066365">
+      <time>2024-07-20T15:49:10.017Z</time>
+    </trkpt>
+    <trkpt lat="41.314193364271254" lon="-122.31371948506899">
+      <time>2024-07-20T15:49:38.213Z</time>
+    </trkpt>
+    <trkpt lat="41.314193364271254" lon="-122.31371948506899">
+      <time>2024-07-20T15:49:38.213Z</time>
+    </trkpt>
+    <trkpt lat="41.314193364271254" lon="-122.31371948506899">
+      <time>2024-07-20T15:49:38.213Z</time>
+    </trkpt>
+    <trkpt lat="41.314188293219836" lon="-122.313738009075">
+      <time>2024-07-20T15:50:38.999Z</time>
+    </trkpt>
+    <trkpt lat="41.314188293219836" lon="-122.313738009075">
+      <time>2024-07-20T15:50:38.999Z</time>
+    </trkpt>
+    <trkpt lat="41.314188293219836" lon="-122.313738009075">
+      <time>2024-07-20T15:50:38.999Z</time>
+    </trkpt>
+    <trkpt lat="41.314188293219836" lon="-122.313738009075">
+      <time>2024-07-20T15:50:38.999Z</time>
+    </trkpt>
+    <trkpt lat="41.31407647863153" lon="-122.31353541847534">
+      <time>2024-07-20T16:18:30.999Z</time>
+    </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

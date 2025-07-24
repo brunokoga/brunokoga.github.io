@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="brunokoga.com" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Bye California, hi Oregon!</name>
+    <desc>Day 97
+Mile 1686.3 to mile 1713.5
+PCT Miles: 27.2 (43.5km)
+Total Miles: 1713.5 (2741.6km)
+
+After 100 days in California, I finally crossed the state line today and I’m now in Oregon!
+
+I was a bit apprehensive because a few days ago there was a fire (Donomore fire) at the border and some people had to take a road alternate. Luckily there was no signs of fire or detour, so I just kept hiking the PCT.
+
+I saw some cows today and I must say that I was very glad that they had cowbells to announce their presence before you could actually see them. I like cows 🐮🫶.
+
+Starting tomorrow I will cold soak my food for the coming two weeks. That means that I’m going to use cold water to prepare (soak) the food instead of cooking it. For ramen, for example, you put the noodles and cold water in a jar 🫙, close it and leave for 1-2 hours and voilá! You have dinner!
+
+Because of that, tomorrow I’m also going to send my stove by post to the last town in Oregon (or the first in Washington — I’m not sure yet). Tonight I cooked my last dinner and I was wondering what I would do with my gas canister, which was almost full and you can’t mail a gas canister. 
+
+Right after I ate, I heard some gas leaking on the campsite next to me and a man that I had never seen before, Compass, told me that his gas canister broke and he had just started going southbound to Seiyad Valley (exactly the opposite of what I did in the past days). He asked if I didn’t have an extra gas canister by any chance… what are the odds?</desc>
+    <time>2024-07-23T02:29:57.429Z</time>
+  </metadata>
+  <trk>
+    <name>Bye California, hi Oregon!</name>
+    <trkseg>
+    <trkpt lat="42.06939127300127" lon="-122.68570784490805">
+      <time>2024-07-23T02:31:41.997Z</time>
+    </trkpt>
+    <trkpt lat="42.06930540040328" lon="-122.6777107549111">
+      <time>2024-07-23T13:10:40.522Z</time>
+    </trkpt>
+    <trkpt lat="42.06773203335895" lon="-122.67205171298484">
+      <time>2024-07-23T13:17:55.023Z</time>
+    </trkpt>
+    <trkpt lat="42.06556878987892" lon="-122.66562053013841">
+      <time>2024-07-23T13:25:42.188Z</time>
+    </trkpt>
+    <trkpt lat="42.06913813952549" lon="-122.66190223407247">
+      <time>2024-07-23T13:32:52.473Z</time>
+    </trkpt>
+    <trkpt lat="42.0712297177334" lon="-122.65635693457224">
+      <time>2024-07-23T13:39:42.423Z</time>
+    </trkpt>
+    <trkpt lat="42.076155929865386" lon="-122.65164446097114">
+      <time>2024-07-23T13:49:57.158Z</time>
+    </trkpt>
+    <trkpt lat="42.07643664212908" lon="-122.64730250709023">
+      <time>2024-07-23T13:55:06.998Z</time>
+    </trkpt>
+    <trkpt lat="42.0751736127232" lon="-122.64145022269584">
+      <time>2024-07-23T14:02:28.421Z</time>
+    </trkpt>
+    <trkpt lat="42.07568905785873" lon="-122.63439961720503">
+      <time>2024-07-23T14:11:10.417Z</time>
+    </trkpt>
+    <trkpt lat="42.07613891460195" lon="-122.6253210940609">
+      <time>2024-07-23T14:22:40.139Z</time>
+    </trkpt>
+    <trkpt lat="42.07704017874047" lon="-122.61989020753896">
+      <time>2024-07-23T14:30:28.359Z</time>
+    </trkpt>
+    <trkpt lat="42.07704017874047" lon="-122.61989020753896">
+      <time>2024-07-23T14:30:28.359Z</time>
+    </trkpt>
+    <trkpt lat="42.07440821923509" lon="-122.6175860223571">
+      <time>2024-07-23T14:35:27.412Z</time>
+    </trkpt>
+    <trkpt lat="42.071550199801166" lon="-122.6121024136642">
+      <time>2024-07-23T14:45:17.459Z</time>
+    </trkpt>
+    <trkpt lat="42.074174108418966" lon="-122.60272948736666">
+      <time>2024-07-23T14:53:39.027Z</time>
+    </trkpt>
+    <trkpt lat="42.06754335671856" lon="-122.60358287964259">
+      <time>2024-07-23T14:58:50.394Z</time>
+    </trkpt>
+    <trkpt lat="42.104766036996786" lon="-122.61133082244274">
+      <time>2024-07-23T16:07:52.713Z</time>
+    </trkpt>
+    <trkpt lat="42.16993990510118" lon="-122.65301232772276">
+      <time>2024-07-23T16:13:00.976Z</time>
+    </trkpt>
+    <trkpt lat="42.18636764682219" lon="-122.69329512020627">
+      <time>2024-07-23T16:18:19.124Z</time>
+    </trkpt>
+    <trkpt lat="42.19486401461385" lon="-122.71156410976911">
+      <time>2024-07-23T16:23:21.014Z</time>
+    </trkpt>
+    <trkpt lat="42.19550698068197" lon="-122.71223941829308">
+      <time>2024-07-23T20:35:33.392Z</time>
+    </trkpt>
+    <trkpt lat="42.19536494933273" lon="-122.7121332195799">
+      <time>2024-07-23T20:38:38.000Z</time>
+    </trkpt>
+    <trkpt lat="42.19549310863222" lon="-122.71207546826705">
+      <time>2024-07-23T20:49:21.393Z</time>
+    </trkpt>
+    <trkpt lat="42.19549310863222" lon="-122.71207546826705">
+      <time>2024-07-23T20:49:21.393Z</time>
+    </trkpt>
+    <trkpt lat="42.195503760171555" lon="-122.71216245798718">
+      <time>2024-07-23T21:06:35.292Z</time>
+    </trkpt>
+    <trkpt lat="42.195503760171555" lon="-122.71216245798718">
+      <time>2024-07-23T21:08:50.273Z</time>
+    </trkpt>
+    <trkpt lat="42.195503340171015" lon="-122.71216223312247">
+      <time>2024-07-23T21:11:16.859Z</time>
+    </trkpt>
+    <trkpt lat="42.19360998835619" lon="-122.70648440357549">
+      <time>2024-07-23T21:38:00.123Z</time>
+    </trkpt>
+    <trkpt lat="42.195622400162506" lon="-122.71210727828193">
+      <time>2024-07-23T22:17:28.820Z</time>
+    </trkpt>
+    <trkpt lat="42.195500945711686" lon="-122.71221133891746">
+      <time>2024-07-23T22:22:24.023Z</time>
+    </trkpt>
+    <trkpt lat="42.19550621642582" lon="-122.71216553290401">
+      <time>2024-07-23T22:23:02.330Z</time>
+    </trkpt>
+    <trkpt lat="42.19552445695008" lon="-122.71219256345435">
+      <time>2024-07-23T22:23:19.021Z</time>
+    </trkpt>
+    <trkpt lat="42.195506591803934" lon="-122.71216609696012">
+      <time>2024-07-23T22:23:28.612Z</time>
+    </trkpt>
+    <trkpt lat="42.19550690476247" lon="-122.71216664838174">
+      <time>2024-07-23T22:23:57.200Z</time>
+    </trkpt>
+    <trkpt lat="42.19559575380168" lon="-122.71210519196288">
+      <time>2024-07-23T22:24:29.408Z</time>
+    </trkpt>
+    <trkpt lat="42.195451785849585" lon="-122.71205979410811">
+      <time>2024-07-24T01:39:10.407Z</time>
+    </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

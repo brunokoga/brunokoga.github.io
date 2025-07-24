@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="brunokoga.com" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Two water caches</name>
+    <desc>Day 34
+Mile 613.2 to mile 639.6
+PCT Miles: 26.4 (42.2km)
+Total Miles: 639.6 (1023.4km)
+
+Beautiful morning! I left camp before 6am and the sun was already out. It’s very easy to observe that the sun is rising earlier and earlier.
+
+Today was an interesting day in the sense that, since yesterday, the next two water sources (that provide water for ~40 miles) are two caches maintained by a trail angel 👼. I have no idea what hikers would do without those water caches.
+
+During the night the winds were crazy. Surprisingly in the morning it was just a breeze but it picked up in the afternoon and there were some strong gusts that were a little bit scary. I really hope this wind thing is something from this region and that in the Sierra things will be calmer
+
+I was feeling much more energized than yesterday and hiked in a very good pace, even though there were quite some uphills. As I eat, the backpack is becoming lighter. Also I realized that if I keep the daily mileage around 24 miles instead of 20, I can arrive in Kennedy Meadows South (the official end of the desert and beginning of the Sierra) one day earlier than I planned. I did well yesterday and did well today, so things are on track. For tomorrow I’ll have to hike at least 25 miles because of water reasons. Good chances that I arrive in KMS on Thursday instead of Friday 🏃🏻‍♂️!
+
+I only saw 6 people today and it was the first time I saw every single one of them. So far from all the hikers I encountered since Tehachapi, I’m the only one who’s bringing food to go straight to KMS. The other option — that seems preferred by the others — is to hike once more to some town and resupply. I’m happy that I’m going in one go.</desc>
+    <time>2024-05-21T01:02:21.419Z</time>
+  </metadata>
+  <trk>
+    <name>Two water caches</name>
+    <trkseg>
+    <trkpt lat="35.59140386466345" lon="-118.11610997761375">
+      <time>2024-05-21T01:02:54.420Z</time>
+    </trkpt>
+    <trkpt lat="35.59140386466345" lon="-118.11610997761375">
+      <time>2024-05-21T01:02:54.420Z</time>
+    </trkpt>
+    <trkpt lat="35.59137932731495" lon="-118.11612143091047">
+      <time>2024-05-21T01:03:15.998Z</time>
+    </trkpt>
+    <trkpt lat="35.59137932731495" lon="-118.11612143091047">
+      <time>2024-05-21T01:03:15.998Z</time>
+    </trkpt>
+    <trkpt lat="35.59137932731495" lon="-118.11612143091047">
+      <time>2024-05-21T01:03:15.998Z</time>
+    </trkpt>
+    <trkpt lat="35.591420044487165" lon="-118.11607846016585">
+      <time>2024-05-21T01:07:03.030Z</time>
+    </trkpt>
+    <trkpt lat="35.53542467011665" lon="-118.06014959384719">
+      <time>2024-05-21T01:12:12.283Z</time>
+    </trkpt>
+    <trkpt lat="35.581147197294584" lon="-118.10567693821935">
+      <time>2024-05-21T01:17:28.131Z</time>
+    </trkpt>
+    <trkpt lat="35.59135036080665" lon="-118.11612725268874">
+      <time>2024-05-21T01:19:29.092Z</time>
+    </trkpt>
+    <trkpt lat="35.59135036080665" lon="-118.11612725268874">
+      <time>2024-05-21T01:19:29.092Z</time>
+    </trkpt>
+    <trkpt lat="35.59135036080665" lon="-118.11612725268874">
+      <time>2024-05-21T01:19:29.092Z</time>
+    </trkpt>
+    <trkpt lat="35.59135036080665" lon="-118.11612725268874">
+      <time>2024-05-21T01:19:29.092Z</time>
+    </trkpt>
+    <trkpt lat="35.53627025792187" lon="-118.06101531560498">
+      <time>2024-05-21T01:24:58.291Z</time>
+    </trkpt>
+    <trkpt lat="35.59126062692019" lon="-118.11593923071615">
+      <time>2024-05-21T01:30:03.923Z</time>
+    </trkpt>
+    <trkpt lat="35.59153015262968" lon="-118.11628265317354">
+      <time>2024-05-21T02:50:25.926Z</time>
+    </trkpt>
+    <trkpt lat="35.59153015262968" lon="-118.11628265317354">
+      <time>2024-05-21T02:50:25.926Z</time>
+    </trkpt>
+    <trkpt lat="35.59153015262968" lon="-118.11628265317354">
+      <time>2024-05-21T02:50:25.926Z</time>
+    </trkpt>
+    <trkpt lat="35.59153015262968" lon="-118.11628265317354">
+      <time>2024-05-21T02:50:25.926Z</time>
+    </trkpt>
+    <trkpt lat="35.59153015262968" lon="-118.11628265317354">
+      <time>2024-05-21T02:50:25.926Z</time>
+    </trkpt>
+    <trkpt lat="35.59155525642968" lon="-118.11631970118556">
+      <time>2024-05-21T02:50:32.999Z</time>
+    </trkpt>
+    <trkpt lat="35.59722582347281" lon="-118.11897500429127">
+      <time>2024-05-21T14:00:36.624Z</time>
+    </trkpt>
+    <trkpt lat="35.60193821325488" lon="-118.1255703048018">
+      <time>2024-05-21T14:27:46.619Z</time>
+    </trkpt>
+    <trkpt lat="35.604200824197015" lon="-118.12036958534095">
+      <time>2024-05-21T14:40:44.609Z</time>
+    </trkpt>
+    <trkpt lat="35.610793861593685" lon="-118.11662522155616">
+      <time>2024-05-21T14:54:26.608Z</time>
+    </trkpt>
+    <trkpt lat="35.617776070754616" lon="-118.10645612899037">
+      <time>2024-05-21T15:12:33.620Z</time>
+    </trkpt>
+    <trkpt lat="35.619342438909804" lon="-118.09794221084387">
+      <time>2024-05-21T15:25:18.634Z</time>
+    </trkpt>
+    <trkpt lat="35.61997640415618" lon="-118.09081113908262">
+      <time>2024-05-21T15:34:18.876Z</time>
+    </trkpt>
+    <trkpt lat="35.61902037931141" lon="-118.08541449998077">
+      <time>2024-05-21T15:40:40.034Z</time>
+    </trkpt>
+    <trkpt lat="35.62632024757156" lon="-118.07610081519752">
+      <time>2024-05-21T16:01:19.621Z</time>
+    </trkpt>
+    <trkpt lat="35.631823469917876" lon="-118.07690011348396">
+      <time>2024-05-21T16:15:25.618Z</time>
+    </trkpt>
+    <trkpt lat="35.63499346378784" lon="-118.06590741511253">
+      <time>2024-05-21T16:28:54.620Z</time>
+    </trkpt>
+    <trkpt lat="35.63225463501702" lon="-118.05826462816266">
+      <time>2024-05-21T16:42:08.629Z</time>
+    </trkpt>
+    <trkpt lat="35.63490285541456" lon="-118.04934829484489">
+      <time>2024-05-21T16:55:53.624Z</time>
+    </trkpt>
+    <trkpt lat="35.64302906862986" lon="-118.05097228858438">
+      <time>2024-05-21T17:09:21.627Z</time>
+    </trkpt>
+    <trkpt lat="35.64749255779725" lon="-118.05787738423614">
+      <time>2024-05-21T17:23:09.660Z</time>
+    </trkpt>
+    <trkpt lat="35.6558897998516" lon="-118.05816488351492">
+      <time>2024-05-21T17:36:50.643Z</time>
+    </trkpt>
+    <trkpt lat="35.656395815346066" lon="-118.05216528486278">
+      <time>2024-05-21T17:50:45.628Z</time>
+    </trkpt>
+    <trkpt lat="35.656644715960745" lon="-118.04316027100947">
+      <time>2024-05-21T18:01:45.946Z</time>
+    </trkpt>
+    <trkpt lat="35.66344466063721" lon="-118.0371259712782">
+      <time>2024-05-21T18:20:08.627Z</time>
+    </trkpt>
+    <trkpt lat="35.66430032722248" lon="-118.03073057915832">
+      <time>2024-05-21T19:27:36.133Z</time>
+    </trkpt>
+    <trkpt lat="35.66327823794974" lon="-118.02492594357396">
+      <time>2024-05-21T19:37:26.337Z</time>
+    </trkpt>
+    <trkpt lat="35.670822747084934" lon="-118.0157775991764">
+      <time>2024-05-21T19:58:43.643Z</time>
+    </trkpt>
+    <trkpt lat="35.676372824269976" lon="-118.01818664196693">
+      <time>2024-05-21T20:19:44.793Z</time>
+    </trkpt>
+    <trkpt lat="35.67903600636467" lon="-118.008770328125">
+      <time>2024-05-21T20:31:48.642Z</time>
+    </trkpt>
+    <trkpt lat="35.68736522927478" lon="-118.00702731136046">
+      <time>2024-05-21T20:47:17.636Z</time>
+    </trkpt>
+    <trkpt lat="35.68633894905046" lon="-117.99666099261306">
+      <time>2024-05-21T21:01:09.643Z</time>
+    </trkpt>
+    <trkpt lat="35.69339022509352" lon="-117.9884038121607">
+      <time>2024-05-21T21:17:16.142Z</time>
+    </trkpt>
+    <trkpt lat="35.69723525553541" lon="-117.98433213505706">
+      <time>2024-05-21T21:26:11.184Z</time>
+    </trkpt>
+    <trkpt lat="35.70272116925167" lon="-117.98309731308183">
+      <time>2024-05-21T21:38:32.021Z</time>
+    </trkpt>
+    <trkpt lat="35.70776175245243" lon="-117.98745942313036">
+      <time>2024-05-21T21:57:37.808Z</time>
+    </trkpt>
+    <trkpt lat="35.715720118056716" lon="-117.99089105810782">
+      <time>2024-05-21T22:25:31.782Z</time>
+    </trkpt>
+    <trkpt lat="35.72437573227633" lon="-117.99959423962794">
+      <time>2024-05-21T22:47:42.650Z</time>
+    </trkpt>
+    <trkpt lat="35.72693158410092" lon="-118.00664090562425">
+      <time>2024-05-21T23:17:20.651Z</time>
+    </trkpt>
+    <trkpt lat="35.73244151196976" lon="-118.01382243644261">
+      <time>2024-05-21T23:32:04.651Z</time>
+    </trkpt>
+    <trkpt lat="35.737785981070004" lon="-118.01417749386096">
+      <time>2024-05-21T23:48:36.132Z</time>
+    </trkpt>
+    <trkpt lat="35.74261026925942" lon="-118.01843633886241">
+      <time>2024-05-22T00:01:36.655Z</time>
+    </trkpt>
+    <trkpt lat="35.743074333328515" lon="-118.0248464831319">
+      <time>2024-05-22T00:22:48.663Z</time>
+    </trkpt>
+    <trkpt lat="35.7464587362816" lon="-118.03068489778603">
+      <time>2024-05-22T00:32:49.658Z</time>
+    </trkpt>
+    <trkpt lat="35.74914178348682" lon="-118.03757373254562">
+      <time>2024-05-22T00:45:37.026Z</time>
+    </trkpt>
+    <trkpt lat="35.75750323481463" lon="-118.0368204509076">
+      <time>2024-05-22T01:11:15.663Z</time>
+    </trkpt>
+    <trkpt lat="35.75750323481463" lon="-118.0368204509076">
+      <time>2024-05-22T01:11:15.663Z</time>
+    </trkpt>
+    <trkpt lat="35.760285356115325" lon="-118.04080495621827">
+      <time>2024-05-22T02:28:10.999Z</time>
+    </trkpt>
+    <trkpt lat="35.76032593961132" lon="-118.0407954049012">
+      <time>2024-05-22T02:28:45.125Z</time>
+    </trkpt>
+    <trkpt lat="35.76032593961132" lon="-118.0407954049012">
+      <time>2024-05-22T02:28:45.125Z</time>
+    </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

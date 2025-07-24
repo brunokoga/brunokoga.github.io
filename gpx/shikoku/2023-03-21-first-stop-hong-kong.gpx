@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="brunokoga.com" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>First stop - Hong Kong</name>
+    <desc>One strike, two cancelled trains and a 12 hour flight later we are *almost* there! 
+Now nothing can stop us anymoreee 🇯🇵 🦸‍♀️🤘</desc>
+    <time>2023-03-21T01:05:59.501Z</time>
+  </metadata>
+  <trk>
+    <name>First stop - Hong Kong</name>
+    <trkseg>
+    <trkpt lat="22.314440655362716" lon="113.9320446752901">
+      <time>2023-03-21T01:07:37.733Z</time>
+    </trkpt>
+    <trkpt lat="22.314624462103275" lon="113.93241863672112">
+      <time>2023-03-21T01:09:19.824Z</time>
+    </trkpt>
+    <trkpt lat="22.31445313606563" lon="113.93243497084808">
+      <time>2023-03-21T01:14:11.051Z</time>
+    </trkpt>
+    <trkpt lat="22.314285278320312" lon="113.93152947531081">
+      <time>2023-03-21T01:15:06.821Z</time>
+    </trkpt>
+    <trkpt lat="22.31458909000513" lon="113.93253670638164">
+      <time>2023-03-21T01:15:47.834Z</time>
+    </trkpt>
+    <trkpt lat="22.314254760742188" lon="113.93150493458492">
+      <time>2023-03-21T01:16:15.914Z</time>
+    </trkpt>
+    <trkpt lat="22.314507379613012" lon="113.93233607351901">
+      <time>2023-03-21T01:26:22.352Z</time>
+    </trkpt>
+    <trkpt lat="22.315265976478543" lon="113.93449725568094">
+      <time>2023-03-21T01:40:08.507Z</time>
+    </trkpt>
+    <trkpt lat="34.43498661210642" lon="135.2460413974822">
+      <time>2023-03-21T06:58:47.273Z</time>
+    </trkpt>
+    <trkpt lat="34.6634890605087" lon="135.48750515108506">
+      <time>2023-03-21T09:30:08.144Z</time>
+    </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

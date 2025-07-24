@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="brunokoga.com" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Last day in San Francisco</name>
+    <desc>Day 79
+PCT Miles: 0
+Total Miles: 1154.5 (1847.2km)
+
+We wanted to do something very American on Independence Day but the 40°C day made us decide to stay home and enjoy some air conditioning. In fact, Chris and Jessica invited a few Brazilians (including children and dogs 🥰) for lunch and we made lasagnas for everybody!
+
+For my surprise, some of the guests were former colleagues of mine back in Brazil and it was really cool to see and chat with them after so many years.
+
+I don’t remember the last time I ate so much. During the day I had probably 5 liters of beer, lasagna, brownies, tiramisu, Melona ice cream and all the snacks that I could find. This week I’ve been doing a very good job at fattening up (I lost 8 kilos since I started the PCT and I really needed to gain some of the weight back).
+
+(Un)fortunately I completely forgot to take pictures. I see that as a good sign 😊. I had a lot of fun today!
+
+(It was so hot today that the thermostat couldn’t keep up and it was complaining that it had been trying to cool down the house for a few hours and the temperature was only going up 🥵)</desc>
+    <time>2024-07-04T20:33:23.301Z</time>
+  </metadata>
+  <trk>
+    <name>Last day in San Francisco</name>
+    <trkseg>
+    <trkpt lat="37.278907225898145" lon="-121.89291841055919">
+      <time>2024-07-05T19:30:42.530Z</time>
+    </trkpt>
+    <trkpt lat="37.29048315835374" lon="-121.9134959123012">
+      <time>2024-07-05T19:35:59.875Z</time>
+    </trkpt>
+    <trkpt lat="37.28780573862671" lon="-121.93261438466402">
+      <time>2024-07-05T19:42:04.238Z</time>
+    </trkpt>
+    <trkpt lat="37.28313814852134" lon="-121.93171424802573">
+      <time>2024-07-05T20:39:28.746Z</time>
+    </trkpt>
+    <trkpt lat="37.278022200919146" lon="-121.9165603214628">
+      <time>2024-07-05T20:44:42.657Z</time>
+    </trkpt>
+    <trkpt lat="37.27726377550272" lon="-121.88755519699481">
+      <time>2024-07-05T20:49:43.041Z</time>
+    </trkpt>
+    <trkpt lat="37.27711206305531" lon="-121.88729309488265">
+      <time>2024-07-05T22:48:58.002Z</time>
+    </trkpt>
+    <trkpt lat="37.27713356263682" lon="-121.88738110486594">
+      <time>2024-07-05T22:57:44.684Z</time>
+    </trkpt>
+    <trkpt lat="37.27713356263682" lon="-121.88738110486594">
+      <time>2024-07-05T22:57:44.684Z</time>
+    </trkpt>
+    <trkpt lat="37.277332632837144" lon="-121.88734263193038">
+      <time>2024-07-05T23:02:50.020Z</time>
+    </trkpt>
+    <trkpt lat="37.277332632837144" lon="-121.88734263193038">
+      <time>2024-07-05T23:02:50.020Z</time>
+    </trkpt>
+    <trkpt lat="37.277332632837144" lon="-121.88734263193038">
+      <time>2024-07-05T23:02:50.020Z</time>
+    </trkpt>
+    <trkpt lat="37.27727320514366" lon="-121.88740625057545">
+      <time>2024-07-05T23:33:59.678Z</time>
+    </trkpt>
+    <trkpt lat="37.27727320514366" lon="-121.88740625057545">
+      <time>2024-07-05T23:33:59.678Z</time>
+    </trkpt>
+    <trkpt lat="37.27727320514366" lon="-121.88740625057545">
+      <time>2024-07-05T23:33:59.678Z</time>
+    </trkpt>
+    <trkpt lat="37.27727320514366" lon="-121.88740625057545">
+      <time>2024-07-05T23:33:59.678Z</time>
+    </trkpt>
+    <trkpt lat="37.28539244438367" lon="-121.8887591913881">
+      <time>2024-07-06T01:08:11.123Z</time>
+    </trkpt>
+    <trkpt lat="37.30106339564767" lon="-121.91163129024736">
+      <time>2024-07-06T01:14:55.899Z</time>
+    </trkpt>
+    <trkpt lat="37.327436569119065" lon="-121.91426893591212">
+      <time>2024-07-06T01:21:30.152Z</time>
+    </trkpt>
+    <trkpt lat="37.3322394491987" lon="-121.92827213541236">
+      <time>2024-07-06T01:26:30.559Z</time>
+    </trkpt>
+    <trkpt lat="37.33494274057813" lon="-121.92219669214094">
+      <time>2024-07-06T02:25:53.242Z</time>
+    </trkpt>
+    <trkpt lat="37.3410935742756" lon="-121.89697421480041">
+      <time>2024-07-06T02:31:00.326Z</time>
+    </trkpt>
+    <trkpt lat="37.336399443482364" lon="-121.89522665005353">
+      <time>2024-07-06T02:36:01.079Z</time>
+    </trkpt>
+    <trkpt lat="37.32455992143352" lon="-121.89295280736116">
+      <time>2024-07-06T04:07:02.122Z</time>
+    </trkpt>
+    <trkpt lat="37.276572815142934" lon="-121.8850725916798">
+      <time>2024-07-06T04:12:06.013Z</time>
+    </trkpt>
+    <trkpt lat="37.2772675054495" lon="-121.88759425666359">
+      <time>2024-07-06T04:20:57.653Z</time>
+    </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

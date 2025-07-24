@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="brunokoga.com" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Paris</name>
+    <desc>Noch einmal schlafen dann gehts los 😍🇫🇷</desc>
+    <time>2023-03-20T00:08:16.000Z</time>
+  </metadata>
+  <trk>
+    <name>Paris</name>
+    <trkseg>
+    <trkpt lat="22.313613547910904" lon="113.92929883291207">
+      <time>2023-03-21T00:08:16.941Z</time>
+    </trkpt>
+    <trkpt lat="22.31440383862833" lon="113.93190432230699">
+      <time>2023-03-21T01:02:07.901Z</time>
+    </trkpt>
+    <trkpt lat="22.314468383789062" lon="113.93213176029482">
+      <time>2023-03-21T01:02:39.980Z</time>
+    </trkpt>
+    <trkpt lat="22.314428799301524" lon="113.93239582184461">
+      <time>2023-03-21T01:02:41.425Z</time>
+    </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
