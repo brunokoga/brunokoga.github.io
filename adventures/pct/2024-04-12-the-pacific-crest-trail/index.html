@@ -25,7 +25,7 @@
 <p>As I embark on this adventure, I’ll be sharing updates and insights about my journey, from the breathtaking scenery to the practical aspects of life on the trail. Stay tuned for updates as I tackle this incredible adventure from south to north, one step at a time!</p>
 <p>Until then,</p>
 <p>Bruno 🗺️</p>
-<div class="media-carousel-wrapper " data-astro-cid-cvpngeox><div class="media-carousel" id="media-carousel-jgg953hrj" data-astro-cid-cvpngeox><div class="swiper" data-astro-cid-cvpngeox><div class="swiper-wrapper" data-astro-cid-cvpngeox><div class="swiper-slide" data-astro-cid-cvpngeox><div class="media-item" data-astro-cid-cvpngeox><div class="photo-container" data-pswp-src="https://bruno-polarsteps.s3.eu-central-1.amazonaws.com/pct/bocholt/photos/DD57C255-937D-48FB-9713-B0548947D0C0_3D586CA1-BBD8-40F4-8E21-6CF89A69D7E0.jpg.jpg" data-pswp-width="1920" data-pswp-height="1080" data-astro-cid-cvpngeox><img src="https://bruno-polarsteps.s3.eu-central-1.amazonaws.com/pct/bocholt/photos/DD57C255-937D-48FB-9713-B0548947D0C0_3D586CA1-BBD8-40F4-8E21-6CF89A69D7E0.jpg.jpg" data-src="https://bruno-polarsteps.s3.eu-central-1.amazonaws.com/pct/bocholt/photos/DD57C255-937D-48FB-9713-B0548947D0C0_3D586CA1-BBD8-40F4-8E21-6CF89A69D7E0.jpg.jpg" alt="Photo 1" loading="lazy" class="media-content" data-astro-cid-cvpngeox></div><div class="media-caption" data-astro-cid-cvpngeox><span class="media-type" data-astro-cid-cvpngeox>📷</span><span class="media-title" data-astro-cid-cvpngeox>Photo 1</span></div></div></div></div><div class="swiper-pagination" data-astro-cid-cvpngeox></div></div></div></div><script>(function(){const carouselId = "media-carousel-jgg953hrj";
+<div class="media-carousel-wrapper " data-astro-cid-cvpngeox><div class="media-carousel" id="media-carousel-q94vqqax9" data-astro-cid-cvpngeox><div class="swiper" data-astro-cid-cvpngeox><div class="swiper-wrapper" data-astro-cid-cvpngeox><div class="swiper-slide" data-astro-cid-cvpngeox><div class="media-item" data-astro-cid-cvpngeox><div class="photo-container" data-pswp-src="https://bruno-polarsteps.s3.eu-central-1.amazonaws.com/pct/bocholt/photos/DD57C255-937D-48FB-9713-B0548947D0C0_3D586CA1-BBD8-40F4-8E21-6CF89A69D7E0.jpg.jpg" data-pswp-width="1920" data-pswp-height="1080" data-astro-cid-cvpngeox><img src="https://bruno-polarsteps.s3.eu-central-1.amazonaws.com/pct/bocholt/photos/DD57C255-937D-48FB-9713-B0548947D0C0_3D586CA1-BBD8-40F4-8E21-6CF89A69D7E0.jpg.jpg" data-src="https://bruno-polarsteps.s3.eu-central-1.amazonaws.com/pct/bocholt/photos/DD57C255-937D-48FB-9713-B0548947D0C0_3D586CA1-BBD8-40F4-8E21-6CF89A69D7E0.jpg.jpg" alt="Photo 1" loading="lazy" class="media-content" data-astro-cid-cvpngeox></div><div class="media-caption" data-astro-cid-cvpngeox><span class="media-type" data-astro-cid-cvpngeox>📷</span><span class="media-title" data-astro-cid-cvpngeox>Photo 1</span></div></div></div></div><div class="swiper-pagination" data-astro-cid-cvpngeox></div></div></div></div><script>(function(){const carouselId = "media-carousel-q94vqqax9";
 const lazy = false;
 
 (function() {
@@ -423,6 +423,7 @@ function openFullscreenGallery(startIndex) {
   
   // Close modal function
   const closeModal = () => {
+    document.body.style.overflow = '';
     document.body.removeChild(overlay);
     document.removeEventListener('keydown', handleKeyDown);
   };
@@ -431,15 +432,8 @@ function openFullscreenGallery(startIndex) {
   closeBtn.addEventListener('click', closeModal);
   document.addEventListener('keydown', handleKeyDown);
   
-  // Prevent scrolling on mobile when gallery is open
+  // Prevent scrolling when gallery is open
   document.body.style.overflow = 'hidden';
-  
-  // Restore scrolling when closed
-  const originalCloseModal = closeModal;
-  closeModal = () => {
-    document.body.style.overflow = '';
-    originalCloseModal();
-  };
 }
 // Lazy loading function
 function loadCarouselMedia() {
@@ -584,8 +578,8 @@ if (lazy) {
   }
 }
 })();
-})();</script> </div> <!-- GPX Map for adventure posts --> <div class="gpx-container" data-astro-cid-senuiu66> <div class="gpx-header" data-astro-cid-senuiu66> <h3 data-astro-cid-senuiu66>Route: The Pacific Crest Trail</h3> <p class="gpx-date" data-astro-cid-senuiu66>April 12, 2024</p>  </div> <div id="gpx-map-9uewuq3g5" class="gpx-map" data-astro-cid-senuiu66></div>  </div> <script>(function(){const mapId = "gpx-map-9uewuq3g5";
-const elevationId = "elevation-lb8wenezs";
+})();</script> </div> <!-- GPX Map for adventure posts --> <div class="gpx-container" data-astro-cid-senuiu66> <div class="gpx-header" data-astro-cid-senuiu66> <h3 data-astro-cid-senuiu66>Route: The Pacific Crest Trail</h3> <p class="gpx-date" data-astro-cid-senuiu66>April 12, 2024</p>  </div> <div id="gpx-map-ujhyyc666" class="gpx-map" data-astro-cid-senuiu66></div>  </div> <script>(function(){const mapId = "gpx-map-ujhyyc666";
+const elevationId = "elevation-fer5romrz";
 const gpxFile = "/gpx/pct/2024-04-12-the-pacific-crest-trail.gpx";
 const showElevation = false;
 const mapStyle = "outdoor";
