@@ -26,7 +26,7 @@
 <p>To everyone who sent us their kindness through likes, comments or private messages; to everyone who in some way or another followed along our crazy journey of 88 temples - thank you, obrigado and dankeeeee 💜🧡</p>
 <p>Now that one week has passed, all the pain and exhaustion is forgotten and we already try to walk as much as we can again 🤪 Which is working well because from now on we’ll be visiting the big cities in Japan 🇯🇵 🏙️ We’ll create another Polarsteps Trip soon!</p>
 <p>Maike &amp; Bruno 🙇‍♀️🙇‍♂️</p>
-<div class="media-carousel-wrapper " data-astro-cid-cvpngeox><div class="media-carousel" id="media-carousel-of958nvxw" data-astro-cid-cvpngeox><div class="swiper" data-astro-cid-cvpngeox><div class="swiper-wrapper" data-astro-cid-cvpngeox><div class="swiper-slide" data-astro-cid-cvpngeox><div class="media-item" data-astro-cid-cvpngeox><div class="photo-container" data-pswp-src="https://bruno-polarsteps.s3.eu-central-1.amazonaws.com/shikoku/takamatsu-shi/photos/6D9B79F1-F44E-4F72-83F2-91173117EAF3_431987B9-A4B2-424A-A3CD-5D76A255AE90.jpg.jpg" data-pswp-width="1920" data-pswp-height="1080" data-astro-cid-cvpngeox><img src="https://bruno-polarsteps.s3.eu-central-1.amazonaws.com/shikoku/takamatsu-shi/photos/6D9B79F1-F44E-4F72-83F2-91173117EAF3_431987B9-A4B2-424A-A3CD-5D76A255AE90.jpg.jpg" data-src="https://bruno-polarsteps.s3.eu-central-1.amazonaws.com/shikoku/takamatsu-shi/photos/6D9B79F1-F44E-4F72-83F2-91173117EAF3_431987B9-A4B2-424A-A3CD-5D76A255AE90.jpg.jpg" alt="Photo 1" loading="lazy" class="media-content" data-astro-cid-cvpngeox></div><div class="media-caption" data-astro-cid-cvpngeox><span class="media-type" data-astro-cid-cvpngeox>📷</span><span class="media-title" data-astro-cid-cvpngeox>Photo 1</span></div></div></div></div><div class="swiper-pagination" data-astro-cid-cvpngeox></div></div></div></div><script>(function(){const carouselId = "media-carousel-of958nvxw";
+<div class="media-carousel-wrapper " data-astro-cid-cvpngeox><div class="media-carousel" id="media-carousel-y39isw8sy" data-astro-cid-cvpngeox><div class="swiper" data-astro-cid-cvpngeox><div class="swiper-wrapper" data-astro-cid-cvpngeox><div class="swiper-slide" data-astro-cid-cvpngeox><div class="media-item" data-astro-cid-cvpngeox><div class="photo-container" data-pswp-src="https://bruno-polarsteps.s3.eu-central-1.amazonaws.com/shikoku/takamatsu-shi/photos/6D9B79F1-F44E-4F72-83F2-91173117EAF3_431987B9-A4B2-424A-A3CD-5D76A255AE90.jpg.jpg" data-pswp-width="1920" data-pswp-height="1080" data-astro-cid-cvpngeox><img src="https://bruno-polarsteps.s3.eu-central-1.amazonaws.com/shikoku/takamatsu-shi/photos/6D9B79F1-F44E-4F72-83F2-91173117EAF3_431987B9-A4B2-424A-A3CD-5D76A255AE90.jpg.jpg" data-src="https://bruno-polarsteps.s3.eu-central-1.amazonaws.com/shikoku/takamatsu-shi/photos/6D9B79F1-F44E-4F72-83F2-91173117EAF3_431987B9-A4B2-424A-A3CD-5D76A255AE90.jpg.jpg" alt="Photo 1" loading="lazy" class="media-content" data-astro-cid-cvpngeox></div><div class="media-caption" data-astro-cid-cvpngeox><span class="media-type" data-astro-cid-cvpngeox>📷</span><span class="media-title" data-astro-cid-cvpngeox>Photo 1</span></div></div></div></div><div class="swiper-pagination" data-astro-cid-cvpngeox></div></div></div></div><script>(function(){const carouselId = "media-carousel-y39isw8sy";
 const lazy = false;
 
 (function() {
@@ -231,12 +231,20 @@ function openFullscreenGallery(startIndex) {
       video.src = mediaItem.src;
       video.controls = true;
       video.preload = 'metadata';
+      video.muted = true;
+      video.playsInline = true;
       video.style.cssText = `
         max-width: 90%;
         max-height: 90%;
         object-fit: contain;
         transition: transform 0.3s ease;
       `;
+      
+      // Show first frame when metadata loads
+      video.addEventListener('loadedmetadata', function() {
+        this.currentTime = 0.1;
+      });
+      
       return video;
     }
     return null;
@@ -577,8 +585,8 @@ if (lazy) {
   }
 }
 })();
-})();</script> </div> <!-- GPX Map for adventure posts --> <div class="gpx-container" data-astro-cid-senuiu66> <div class="gpx-header" data-astro-cid-senuiu66> <h3 data-astro-cid-senuiu66>Route: Last post and next steps</h3> <p class="gpx-date" data-astro-cid-senuiu66>May 8, 2023</p>  </div> <div id="gpx-map-iiyfm59be" class="gpx-map" data-astro-cid-senuiu66></div>  </div> <script>(function(){const mapId = "gpx-map-iiyfm59be";
-const elevationId = "elevation-4w6sa2l22";
+})();</script> </div> <!-- GPX Map for adventure posts --> <div class="gpx-container" data-astro-cid-senuiu66> <div class="gpx-header" data-astro-cid-senuiu66> <h3 data-astro-cid-senuiu66>Route: Last post and next steps</h3> <p class="gpx-date" data-astro-cid-senuiu66>May 8, 2023</p>  </div> <div id="gpx-map-ckyvvh8si" class="gpx-map" data-astro-cid-senuiu66></div>  </div> <script>(function(){const mapId = "gpx-map-ckyvvh8si";
+const elevationId = "elevation-sl8vsx8h9";
 const gpxFile = "/gpx/shikoku/2023-05-08-last-post-and-next-steps.gpx";
 const showElevation = false;
 const mapStyle = "outdoor";
